@@ -1,0 +1,5 @@
+
+import { xorGame } from '../main/[828]-chalkboard-xor-game'
+describe('Chalkboard XOR Game', () => {
+
+});

@@ -1,5 +1,6 @@
 .DS_Store
-
+response/
+response/node_modules/
 # Xcode
 #
 *.pbxuser
