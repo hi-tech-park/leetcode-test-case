@@ -1,3 +1,2 @@
-export function lengthOfLastWord(s: string): number {
-
-};
+export function lengthOfLastWord(s: string): number {}
+;

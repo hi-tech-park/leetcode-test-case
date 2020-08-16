@@ -1,3 +1,2 @@
-export function subsets(nums: number[]): number[][] {
-
-};
+export function subsets(nums: number[]): number[][] {}
+;

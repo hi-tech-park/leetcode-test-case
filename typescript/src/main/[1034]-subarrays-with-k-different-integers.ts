@@ -1,3 +1,2 @@
-export function subarraysWithKDistinct(A: number[], K: number): number {
-
-};
+export function subarraysWithKDistinct(A: number[], K: number): number {}
+;

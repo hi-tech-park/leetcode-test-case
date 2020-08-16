@@ -1,3 +1,2 @@
-export function replaceElements(arr: number[]): number[] {
-
-};
+export function replaceElements(arr: number[]): number[] {}
+;

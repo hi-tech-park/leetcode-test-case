@@ -1,3 +1,2 @@
-export function strangePrinter(s: string): number {
-
-};
+export function strangePrinter(s: string): number {}
+;

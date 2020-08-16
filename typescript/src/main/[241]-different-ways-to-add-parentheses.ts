@@ -1,3 +1,2 @@
-export function diffWaysToCompute(input: string): number[] {
-
-};
+export function diffWaysToCompute(input: string): number[] {}
+;

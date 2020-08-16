@@ -1,3 +1,2 @@
-export function medianSlidingWindow(nums: number[], k: number): number[] {
-
-};
+export function medianSlidingWindow(nums: number[], k: number): number[] {}
+;

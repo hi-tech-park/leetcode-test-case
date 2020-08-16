@@ -1,3 +1,2 @@
-export function generate(numRows: number): number[][] {
-
-};
+export function generate(numRows: number): number[][] {}
+;

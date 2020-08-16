@@ -1,3 +1,2 @@
-export function findIntegers(num: number): number {
-
-};
+export function findIntegers(num: number): number {}
+;

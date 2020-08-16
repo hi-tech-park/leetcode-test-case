@@ -1,3 +1,2 @@
-export function wordSubsets(A: string[], B: string[]): string[] {
-
-};
+export function wordSubsets(A: string[], B: string[]): string[] {}
+;

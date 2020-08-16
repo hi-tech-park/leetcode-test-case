@@ -1,3 +1,2 @@
-export function maxEqualFreq(nums: number[]): number {
-
-};
+export function maxEqualFreq(nums: number[]): number {}
+;

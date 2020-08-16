@@ -1,3 +1,2 @@
-export function buddyStrings(A: string, B: string): boolean {
-
-};
+export function buddyStrings(A: string, B: string): boolean {}
+;

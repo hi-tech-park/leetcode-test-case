@@ -1,3 +1,2 @@
-export function sumSubseqWidths(A: number[]): number {
-
-};
+export function sumSubseqWidths(A: number[]): number {}
+;

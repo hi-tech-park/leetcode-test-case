@@ -1,3 +1,2 @@
-export function balancedString(s: string): number {
-
-};
+export function balancedString(s: string): number {}
+;

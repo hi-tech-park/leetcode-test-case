@@ -1,3 +1,2 @@
-export function validateStackSequences(pushed: number[], popped: number[]): boolean {
-
-};
+export function validateStackSequences(pushed: number[], popped: number[]): boolean {}
+;

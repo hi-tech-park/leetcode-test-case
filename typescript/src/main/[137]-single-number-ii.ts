@@ -1,3 +1,2 @@
-export function singleNumber(nums: number[]): number {
-
-};
+export function singleNumber(nums: number[]): number {}
+;

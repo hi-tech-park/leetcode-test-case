@@ -1,3 +1,2 @@
-export function romanToInt(s: string): number {
-
-};
+export function romanToInt(s: string): number {}
+;

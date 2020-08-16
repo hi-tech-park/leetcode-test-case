@@ -1,3 +1,2 @@
-export function largestOverlap(A: number[][], B: number[][]): number {
-
-};
+export function largestOverlap(A: number[][], B: number[][]): number {}
+;

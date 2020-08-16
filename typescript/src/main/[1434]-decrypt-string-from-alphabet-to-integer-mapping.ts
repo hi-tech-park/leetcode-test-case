@@ -1,3 +1,2 @@
-export function freqAlphabets(s: string): string {
-
-};
+export function freqAlphabets(s: string): string {}
+;

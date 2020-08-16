@@ -1,3 +1,2 @@
-export function merge(intervals: number[][]): number[][] {
-
-};
+export function merge(intervals: number[][]): number[][] {}
+;

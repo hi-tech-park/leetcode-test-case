@@ -1,3 +1,2 @@
-export function maximumGap(nums: number[]): number {
-
-};
+export function maximumGap(nums: number[]): number {}
+;

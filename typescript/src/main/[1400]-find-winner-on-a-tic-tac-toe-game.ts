@@ -1,3 +1,2 @@
-export function tictactoe(moves: number[][]): string {
-
-};
+export function tictactoe(moves: number[][]): string {}
+;

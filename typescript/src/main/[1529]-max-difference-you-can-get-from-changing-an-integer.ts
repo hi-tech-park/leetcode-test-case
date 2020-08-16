@@ -1,3 +1,2 @@
-export function maxDiff(num: number): number {
-
-};
+export function maxDiff(num: number): number {}
+;

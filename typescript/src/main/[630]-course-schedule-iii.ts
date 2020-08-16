@@ -1,3 +1,2 @@
-export function scheduleCourse(courses: number[][]): number {
-
-};
+export function scheduleCourse(courses: number[][]): number {}
+;

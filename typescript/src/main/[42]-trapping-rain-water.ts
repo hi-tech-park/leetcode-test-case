@@ -1,3 +1,2 @@
-export function trap(height: number[]): number {
-
-};
+export function trap(height: number[]): number {}
+;

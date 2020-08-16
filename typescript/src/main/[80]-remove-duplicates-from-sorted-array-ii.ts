@@ -1,3 +1,2 @@
-export function removeDuplicates(nums: number[]): number {
-
-};
+export function removeDuplicates(nums: number[]): number {}
+;

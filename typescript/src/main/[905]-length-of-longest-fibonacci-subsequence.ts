@@ -1,3 +1,2 @@
-export function lenLongestFibSubseq(A: number[]): number {
-
-};
+export function lenLongestFibSubseq(A: number[]): number {}
+;

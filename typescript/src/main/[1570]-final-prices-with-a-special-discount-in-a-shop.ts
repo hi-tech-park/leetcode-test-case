@@ -1,3 +1,2 @@
-export function finalPrices(prices: number[]): number[] {
-
-};
+export function finalPrices(prices: number[]): number[] {}
+;

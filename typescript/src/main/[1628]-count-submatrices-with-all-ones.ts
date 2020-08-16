@@ -1,3 +1,2 @@
-export function numSubmat(mat: number[][]): number {
-
-};
+export function numSubmat(mat: number[][]): number {}
+;

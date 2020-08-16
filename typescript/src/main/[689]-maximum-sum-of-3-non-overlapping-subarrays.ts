@@ -1,3 +1,2 @@
-export function maxSumOfThreeSubarrays(nums: number[], k: number): number[] {
-
-};
+export function maxSumOfThreeSubarrays(nums: number[], k: number): number[] {}
+;

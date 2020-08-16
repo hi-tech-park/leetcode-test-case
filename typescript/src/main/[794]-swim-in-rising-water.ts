@@ -1,3 +1,2 @@
-export function swimInWater(grid: number[][]): number {
-
-};
+export function swimInWater(grid: number[][]): number {}
+;

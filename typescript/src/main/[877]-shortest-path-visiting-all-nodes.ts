@@ -1,3 +1,2 @@
-export function shortestPathLength(graph: number[][]): number {
-
-};
+export function shortestPathLength(graph: number[][]): number {}
+;

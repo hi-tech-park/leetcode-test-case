@@ -1,3 +1,2 @@
-export function isBipartite(graph: number[][]): boolean {
-
-};
+export function isBipartite(graph: number[][]): boolean {}
+;

@@ -1,3 +1,2 @@
-export function searchMatrix(matrix: number[][], target: number): boolean {
-
-};
+export function searchMatrix(matrix: number[][], target: number): boolean {}
+;

@@ -1,3 +1,2 @@
-export function solveEquation(equation: string): string {
-
-};
+export function solveEquation(equation: string): string {}
+;

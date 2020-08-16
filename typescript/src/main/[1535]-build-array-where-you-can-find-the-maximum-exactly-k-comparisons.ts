@@ -1,3 +1,2 @@
-export function numOfArrays(n: number, m: number, k: number): number {
-
-};
+export function numOfArrays(n: number, m: number, k: number): number {}
+;

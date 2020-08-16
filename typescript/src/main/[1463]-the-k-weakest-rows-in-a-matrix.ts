@@ -1,3 +1,2 @@
-export function kWeakestRows(mat: number[][], k: number): number[] {
-
-};
+export function kWeakestRows(mat: number[][], k: number): number[] {}
+;

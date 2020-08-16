@@ -1,3 +1,2 @@
-export function parseBoolExpr(expression: string): boolean {
-
-};
+export function parseBoolExpr(expression: string): boolean {}
+;

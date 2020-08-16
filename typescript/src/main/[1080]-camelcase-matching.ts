@@ -1,3 +1,2 @@
-export function camelMatch(queries: string[], pattern: string): boolean[] {
-
-};
+export function camelMatch(queries: string[], pattern: string): boolean[] {}
+;

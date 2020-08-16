@@ -1,3 +1,2 @@
-export function updateMatrix(matrix: number[][]): number[][] {
-
-};
+export function updateMatrix(matrix: number[][]): number[][] {}
+;

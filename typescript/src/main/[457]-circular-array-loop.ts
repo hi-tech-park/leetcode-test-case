@@ -1,3 +1,2 @@
-export function circularArrayLoop(nums: number[]): boolean {
-
-};
+export function circularArrayLoop(nums: number[]): boolean {}
+;

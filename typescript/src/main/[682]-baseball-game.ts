@@ -1,3 +1,2 @@
-export function calPoints(ops: string[]): number {
-
-};
+export function calPoints(ops: string[]): number {}
+;

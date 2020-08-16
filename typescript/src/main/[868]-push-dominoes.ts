@@ -1,3 +1,2 @@
-export function pushDominoes(dominoes: string): string {
-
-};
+export function pushDominoes(dominoes: string): string {}
+;

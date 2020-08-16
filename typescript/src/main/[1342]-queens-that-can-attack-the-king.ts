@@ -1,3 +1,2 @@
-export function queensAttacktheKing(queens: number[][], king: number[]): number[][] {
-
-};
+export function queensAttacktheKing(queens: number[][], king: number[]): number[][] {}
+;

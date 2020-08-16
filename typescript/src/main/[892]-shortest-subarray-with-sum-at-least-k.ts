@@ -1,3 +1,2 @@
-export function shortestSubarray(A: number[], K: number): number {
-
-};
+export function shortestSubarray(A: number[], K: number): number {}
+;

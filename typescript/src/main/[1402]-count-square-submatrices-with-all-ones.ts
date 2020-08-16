@@ -1,3 +1,2 @@
-export function countSquares(matrix: number[][]): number {
-
-};
+export function countSquares(matrix: number[][]): number {}
+;

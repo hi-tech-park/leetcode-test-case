@@ -1,3 +1,2 @@
-export function sortArray(nums: number[]): number[] {
-
-};
+export function sortArray(nums: number[]): number[] {}
+;

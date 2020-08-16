@@ -1,3 +1,2 @@
-export function maxProfit(k: number, prices: number[]): number {
-
-};
+export function maxProfit(k: number, prices: number[]): number {}
+;

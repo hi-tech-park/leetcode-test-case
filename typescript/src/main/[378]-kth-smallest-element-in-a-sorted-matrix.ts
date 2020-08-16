@@ -1,3 +1,2 @@
-export function kthSmallest(matrix: number[][], k: number): number {
-
-};
+export function kthSmallest(matrix: number[][], k: number): number {}
+;

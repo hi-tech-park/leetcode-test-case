@@ -1,3 +1,2 @@
-export function distributeCandies(candies: number[]): number {
-
-};
+export function distributeCandies(candies: number[]): number {}
+;

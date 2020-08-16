@@ -1,3 +1,2 @@
-export function minSwap(A: number[], B: number[]): number {
-
-};
+export function minSwap(A: number[], B: number[]): number {}
+;

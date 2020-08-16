@@ -1,3 +1,2 @@
-export function reorganizeString(S: string): string {
-
-};
+export function reorganizeString(S: string): string {}
+;

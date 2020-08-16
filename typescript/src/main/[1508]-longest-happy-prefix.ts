@@ -1,3 +1,2 @@
-export function longestPrefix(s: string): string {
-
-};
+export function longestPrefix(s: string): string {}
+;

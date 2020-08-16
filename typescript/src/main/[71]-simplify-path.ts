@@ -1,3 +1,2 @@
-export function simplifyPath(path: string): string {
-
-};
+export function simplifyPath(path: string): string {}
+;

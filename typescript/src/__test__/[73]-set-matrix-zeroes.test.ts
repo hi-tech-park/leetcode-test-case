@@ -1,8 +1,7 @@
 
-import {/**
- Do not return anything, modify matrix in-place instead.
- */
- setZeroes } from '../main/[73]-set-matrix-zeroes'
+import { setZeroes } from '../main/[73]-set-matrix-zeroes'
 describe('Set Matrix Zeroes', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

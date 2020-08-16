@@ -1,3 +1,2 @@
-export function shortestCommonSupersequence(str1: string, str2: string): string {
-
-};
+export function shortestCommonSupersequence(str1: string, str2: string): string {}
+;

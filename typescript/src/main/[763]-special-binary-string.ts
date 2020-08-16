@@ -1,3 +1,2 @@
-export function makeLargestSpecial(S: string): string {
-
-};
+export function makeLargestSpecial(S: string): string {}
+;

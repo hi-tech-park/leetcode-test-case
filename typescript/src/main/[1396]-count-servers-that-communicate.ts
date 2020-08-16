@@ -1,3 +1,2 @@
-export function countServers(grid: number[][]): number {
-
-};
+export function countServers(grid: number[][]): number {}
+;

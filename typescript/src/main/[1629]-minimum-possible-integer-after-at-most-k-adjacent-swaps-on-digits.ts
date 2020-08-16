@@ -1,3 +1,2 @@
-export function minInteger(num: string, k: number): string {
-
-};
+export function minInteger(num: string, k: number): string {}
+;

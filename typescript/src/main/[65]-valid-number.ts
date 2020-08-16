@@ -1,3 +1,2 @@
-export function isNumber(s: string): boolean {
-
-};
+export function isNumber(s: string): boolean {}
+;

@@ -1,3 +1,2 @@
-export function numPrimeArrangements(n: number): number {
-
-};
+export function numPrimeArrangements(n: number): number {}
+;

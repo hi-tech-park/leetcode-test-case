@@ -1,3 +1,2 @@
-export function containVirus(grid: number[][]): number {
-
-};
+export function containVirus(grid: number[][]): number {}
+;

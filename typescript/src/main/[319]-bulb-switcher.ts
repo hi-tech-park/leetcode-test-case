@@ -1,3 +1,2 @@
-export function bulbSwitch(n: number): number {
-
-};
+export function bulbSwitch(n: number): number {}
+;

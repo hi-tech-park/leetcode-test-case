@@ -1,3 +1,2 @@
-export function numOfWays(n: number): number {
-
-};
+export function numOfWays(n: number): number {}
+;

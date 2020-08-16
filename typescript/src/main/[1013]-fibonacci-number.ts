@@ -1,3 +1,2 @@
-export function fib(N: number): number {
-
-};
+export function fib(N: number): number {}
+;

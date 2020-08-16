@@ -1,3 +1,2 @@
-export function findItinerary(tickets: string[][]): string[] {
-
-};
+export function findItinerary(tickets: string[][]): string[] {}
+;

@@ -1,3 +1,2 @@
-export function findSubstringInWraproundString(p: string): number {
-
-};
+export function findSubstringInWraproundString(p: string): number {}
+;

@@ -1,3 +1,2 @@
-export function minFlipsMonoIncr(S: string): number {
-
-};
+export function minFlipsMonoIncr(S: string): number {}
+;

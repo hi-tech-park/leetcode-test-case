@@ -1,3 +1,2 @@
-export function kConcatenationMaxSum(arr: number[], k: number): number {
-
-};
+export function kConcatenationMaxSum(arr: number[], k: number): number {}
+;

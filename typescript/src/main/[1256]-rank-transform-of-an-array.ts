@@ -1,3 +1,2 @@
-export function arrayRankTransform(arr: number[]): number[] {
-
-};
+export function arrayRankTransform(arr: number[]): number[] {}
+;

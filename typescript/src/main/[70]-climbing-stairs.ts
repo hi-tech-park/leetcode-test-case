@@ -1,3 +1,2 @@
-export function climbStairs(n: number): number {
-
-};
+export function climbStairs(n: number): number {}
+;

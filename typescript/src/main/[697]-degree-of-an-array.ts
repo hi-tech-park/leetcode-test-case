@@ -1,3 +1,2 @@
-export function findShortestSubArray(nums: number[]): number {
-
-};
+export function findShortestSubArray(nums: number[]): number {}
+;

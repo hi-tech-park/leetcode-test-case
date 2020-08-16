@@ -1,3 +1,2 @@
-export function longestArithSeqLength(A: number[]): number {
-
-};
+export function longestArithSeqLength(A: number[]): number {}
+;

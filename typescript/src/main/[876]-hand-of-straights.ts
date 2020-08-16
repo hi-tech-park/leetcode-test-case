@@ -1,3 +1,2 @@
-export function isNStraightHand(hand: number[], W: number): boolean {
-
-};
+export function isNStraightHand(hand: number[], W: number): boolean {}
+;

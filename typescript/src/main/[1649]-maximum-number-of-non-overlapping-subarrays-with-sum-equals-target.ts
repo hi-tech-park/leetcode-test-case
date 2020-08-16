@@ -1,3 +1,2 @@
-export function maxNonOverlapping(nums: number[], target: number): number {
-
-};
+export function maxNonOverlapping(nums: number[], target: number): number {}
+;

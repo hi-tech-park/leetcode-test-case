@@ -1,3 +1,2 @@
-export function robotSim(commands: number[], obstacles: number[][]): number {
-
-};
+export function robotSim(commands: number[], obstacles: number[][]): number {}
+;

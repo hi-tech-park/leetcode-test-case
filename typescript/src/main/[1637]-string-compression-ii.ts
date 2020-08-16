@@ -1,3 +1,2 @@
-export function getLengthOfOptimalCompression(s: string, k: number): number {
-
-};
+export function getLengthOfOptimalCompression(s: string, k: number): number {}
+;

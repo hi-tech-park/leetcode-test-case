@@ -1,3 +1,2 @@
-export function checkIfExist(arr: number[]): boolean {
-
-};
+export function checkIfExist(arr: number[]): boolean {}
+;

@@ -1,3 +1,2 @@
-export function numDupDigitsAtMostN(N: number): number {
-
-};
+export function numDupDigitsAtMostN(N: number): number {}
+;

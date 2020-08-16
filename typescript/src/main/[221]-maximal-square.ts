@@ -1,3 +1,2 @@
-export function maximalSquare(matrix: string[][]): number {
-
-};
+export function maximalSquare(matrix: string[][]): number {}
+;

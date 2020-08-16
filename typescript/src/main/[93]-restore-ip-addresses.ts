@@ -1,3 +1,2 @@
-export function restoreIpAddresses(s: string): string[] {
-
-};
+export function restoreIpAddresses(s: string): string[] {}
+;

@@ -1,3 +1,2 @@
-export function numSubarrayBoundedMax(A: number[], L: number, R: number): number {
-
-};
+export function numSubarrayBoundedMax(A: number[], L: number, R: number): number {}
+;

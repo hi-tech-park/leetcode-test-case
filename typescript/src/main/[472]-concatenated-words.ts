@@ -1,3 +1,2 @@
-export function findAllConcatenatedWordsInADict(words: string[]): string[] {
-
-};
+export function findAllConcatenatedWordsInADict(words: string[]): string[] {}
+;

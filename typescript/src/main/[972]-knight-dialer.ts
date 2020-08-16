@@ -1,3 +1,2 @@
-export function knightDialer(N: number): number {
-
-};
+export function knightDialer(N: number): number {}
+;

@@ -1,3 +1,2 @@
-export function minFlips(a: number, b: number, c: number): number {
-
-};
+export function minFlips(a: number, b: number, c: number): number {}
+;

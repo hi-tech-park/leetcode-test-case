@@ -1,3 +1,2 @@
-export function closestDivisors(num: number): number[] {
-
-};
+export function closestDivisors(num: number): number[] {}
+;

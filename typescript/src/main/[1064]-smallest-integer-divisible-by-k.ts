@@ -1,3 +1,2 @@
-export function smallestRepunitDivByK(K: number): number {
-
-};
+export function smallestRepunitDivByK(K: number): number {}
+;

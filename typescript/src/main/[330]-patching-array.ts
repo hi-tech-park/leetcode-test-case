@@ -1,3 +1,2 @@
-export function minPatches(nums: number[], n: number): number {
-
-};
+export function minPatches(nums: number[], n: number): number {}
+;

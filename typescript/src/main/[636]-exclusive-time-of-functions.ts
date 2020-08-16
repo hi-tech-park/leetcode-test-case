@@ -1,3 +1,2 @@
-export function exclusiveTime(n: number, logs: string[]): number[] {
-
-};
+export function exclusiveTime(n: number, logs: string[]): number[] {}
+;

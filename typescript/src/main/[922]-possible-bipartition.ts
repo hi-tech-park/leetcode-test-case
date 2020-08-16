@@ -1,3 +1,2 @@
-export function possibleBipartition(N: number, dislikes: number[][]): boolean {
-
-};
+export function possibleBipartition(N: number, dislikes: number[][]): boolean {}
+;

@@ -1,3 +1,2 @@
-export function movesToMakeZigzag(nums: number[]): number {
-
-};
+export function movesToMakeZigzag(nums: number[]): number {}
+;

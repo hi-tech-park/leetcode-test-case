@@ -1,3 +1,2 @@
-export function closestToTarget(arr: number[], target: number): number {
-
-};
+export function closestToTarget(arr: number[], target: number): number {}
+;

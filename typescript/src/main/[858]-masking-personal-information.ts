@@ -1,3 +1,2 @@
-export function maskPII(S: string): string {
-
-};
+export function maskPII(S: string): string {}
+;

@@ -1,3 +1,2 @@
-export function minMoves(nums: number[]): number {
-
-};
+export function minMoves(nums: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function findDiagonalOrder(nums: number[][]): number[] {
-
-};
+export function findDiagonalOrder(nums: number[][]): number[] {}
+;

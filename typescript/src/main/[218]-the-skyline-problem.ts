@@ -1,3 +1,2 @@
-export function getSkyline(buildings: number[][]): number[][] {
-
-};
+export function getSkyline(buildings: number[][]): number[][] {}
+;

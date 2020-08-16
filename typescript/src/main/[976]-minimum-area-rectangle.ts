@@ -1,3 +1,2 @@
-export function minAreaRect(points: number[][]): number {
-
-};
+export function minAreaRect(points: number[][]): number {}
+;

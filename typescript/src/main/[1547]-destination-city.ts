@@ -1,3 +1,2 @@
-export function destCity(paths: string[][]): string {
-
-};
+export function destCity(paths: string[][]): string {}
+;

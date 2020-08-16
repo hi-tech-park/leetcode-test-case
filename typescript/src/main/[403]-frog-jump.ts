@@ -1,3 +1,2 @@
-export function canCross(stones: number[]): boolean {
-
-};
+export function canCross(stones: number[]): boolean {}
+;

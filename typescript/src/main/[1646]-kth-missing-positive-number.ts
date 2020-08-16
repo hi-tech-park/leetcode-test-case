@@ -1,3 +1,2 @@
-export function findKthPositive(arr: number[], k: number): number {
-
-};
+export function findKthPositive(arr: number[], k: number): number {}
+;

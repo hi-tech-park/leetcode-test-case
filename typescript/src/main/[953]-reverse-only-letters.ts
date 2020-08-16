@@ -1,3 +1,2 @@
-export function reverseOnlyLetters(S: string): string {
-
-};
+export function reverseOnlyLetters(S: string): string {}
+;

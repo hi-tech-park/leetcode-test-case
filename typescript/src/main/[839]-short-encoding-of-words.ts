@@ -1,3 +1,2 @@
-export function minimumLengthEncoding(words: string[]): number {
-
-};
+export function minimumLengthEncoding(words: string[]): number {}
+;

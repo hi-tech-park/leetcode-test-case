@@ -1,3 +1,2 @@
-export function peakIndexInMountainArray(A: number[]): number {
-
-};
+export function peakIndexInMountainArray(A: number[]): number {}
+;

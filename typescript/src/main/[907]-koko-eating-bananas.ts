@@ -1,3 +1,2 @@
-export function minEatingSpeed(piles: number[], H: number): number {
-
-};
+export function minEatingSpeed(piles: number[], H: number): number {}
+;

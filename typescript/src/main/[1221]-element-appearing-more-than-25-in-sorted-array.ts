@@ -1,3 +1,2 @@
-export function findSpecialInteger(arr: number[]): number {
-
-};
+export function findSpecialInteger(arr: number[]): number {}
+;

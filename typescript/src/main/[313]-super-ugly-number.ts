@@ -1,3 +1,2 @@
-export function nthSuperUglyNumber(n: number, primes: number[]): number {
-
-};
+export function nthSuperUglyNumber(n: number, primes: number[]): number {}
+;

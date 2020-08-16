@@ -1,10 +1,7 @@
 
-import {/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor } from '../main/[148]-sort-list'
+import { sortList } from '../main/[148]-sort-list'
 describe('Sort List', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

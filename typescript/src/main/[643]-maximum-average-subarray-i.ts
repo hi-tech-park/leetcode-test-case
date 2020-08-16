@@ -1,3 +1,2 @@
-export function findMaxAverage(nums: number[], k: number): number {
-
-};
+export function findMaxAverage(nums: number[], k: number): number {}
+;

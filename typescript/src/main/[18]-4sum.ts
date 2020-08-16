@@ -1,3 +1,2 @@
-export function fourSum(nums: number[], target: number): number[][] {
-
-};
+export function fourSum(nums: number[], target: number): number[][] {}
+;

@@ -1,3 +1,2 @@
-export function numFactoredBinaryTrees(A: number[]): number {
-
-};
+export function numFactoredBinaryTrees(A: number[]): number {}
+;

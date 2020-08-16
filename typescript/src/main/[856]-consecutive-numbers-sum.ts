@@ -1,3 +1,2 @@
-export function consecutiveNumbersSum(N: number): number {
-
-};
+export function consecutiveNumbersSum(N: number): number {}
+;

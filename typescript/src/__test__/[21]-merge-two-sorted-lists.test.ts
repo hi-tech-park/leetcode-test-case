@@ -1,10 +1,7 @@
 
-import {/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor } from '../main/[21]-merge-two-sorted-lists'
+import { mergeTwoLists } from '../main/[21]-merge-two-sorted-lists'
 describe('Merge Two Sorted Lists', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

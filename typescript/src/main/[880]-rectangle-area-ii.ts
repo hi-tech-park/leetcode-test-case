@@ -1,3 +1,2 @@
-export function rectangleArea(rectangles: number[][]): number {
-
-};
+export function rectangleArea(rectangles: number[][]): number {}
+;

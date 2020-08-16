@@ -1,3 +1,2 @@
-export function maxValueAfterReverse(nums: number[]): number {
-
-};
+export function maxValueAfterReverse(nums: number[]): number {}
+;

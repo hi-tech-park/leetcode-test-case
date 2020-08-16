@@ -1,3 +1,2 @@
-export function maxSumAfterPartitioning(A: number[], K: number): number {
-
-};
+export function maxSumAfterPartitioning(A: number[], K: number): number {}
+;

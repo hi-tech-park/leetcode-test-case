@@ -1,3 +1,2 @@
-export function addBinary(a: string, b: string): string {
-
-};
+export function addBinary(a: string, b: string): string {}
+;

@@ -1,3 +1,2 @@
-export function findMinStep(board: string, hand: string): number {
-
-};
+export function findMinStep(board: string, hand: string): number {}
+;

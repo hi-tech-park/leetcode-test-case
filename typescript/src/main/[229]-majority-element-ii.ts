@@ -1,3 +1,2 @@
-export function majorityElement(nums: number[]): number[] {
-
-};
+export function majorityElement(nums: number[]): number[] {}
+;

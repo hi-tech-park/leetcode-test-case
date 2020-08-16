@@ -1,3 +1,2 @@
-export function circularPermutation(n: number, start: number): number[] {
-
-};
+export function circularPermutation(n: number, start: number): number[] {}
+;

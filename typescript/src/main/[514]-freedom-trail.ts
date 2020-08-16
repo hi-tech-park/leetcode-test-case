@@ -1,3 +1,2 @@
-export function findRotateSteps(ring: string, key: string): number {
-
-};
+export function findRotateSteps(ring: string, key: string): number {}
+;

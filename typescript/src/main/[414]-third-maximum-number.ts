@@ -1,3 +1,2 @@
-export function thirdMax(nums: number[]): number {
-
-};
+export function thirdMax(nums: number[]): number {}
+;

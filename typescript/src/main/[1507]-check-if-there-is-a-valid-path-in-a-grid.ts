@@ -1,3 +1,2 @@
-export function hasValidPath(grid: number[][]): boolean {
-
-};
+export function hasValidPath(grid: number[][]): boolean {}
+;

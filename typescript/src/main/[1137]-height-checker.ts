@@ -1,3 +1,2 @@
-export function heightChecker(heights: number[]): number {
-
-};
+export function heightChecker(heights: number[]): number {}
+;

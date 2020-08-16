@@ -1,3 +1,2 @@
-export function rangeBitwiseAnd(m: number, n: number): number {
-
-};
+export function rangeBitwiseAnd(m: number, n: number): number {}
+;

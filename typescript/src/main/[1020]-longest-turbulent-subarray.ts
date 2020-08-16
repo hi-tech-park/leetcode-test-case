@@ -1,3 +1,2 @@
-export function maxTurbulenceSize(A: number[]): number {
-
-};
+export function maxTurbulenceSize(A: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function smallestSubsequence(text: string): string {
-
-};
+export function smallestSubsequence(text: string): string {}
+;

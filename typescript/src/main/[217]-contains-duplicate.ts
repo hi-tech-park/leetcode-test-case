@@ -1,3 +1,2 @@
-export function containsDuplicate(nums: number[]): boolean {
-
-};
+export function containsDuplicate(nums: number[]): boolean {}
+;

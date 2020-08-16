@@ -1,3 +1,2 @@
-export function palindromePartition(s: string, k: number): number {
-
-};
+export function palindromePartition(s: string, k: number): number {}
+;

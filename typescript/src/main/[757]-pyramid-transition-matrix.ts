@@ -1,3 +1,2 @@
-export function pyramidTransition(bottom: string, allowed: string[]): boolean {
-
-};
+export function pyramidTransition(bottom: string, allowed: string[]): boolean {}
+;

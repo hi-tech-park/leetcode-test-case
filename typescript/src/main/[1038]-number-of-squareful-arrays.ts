@@ -1,3 +1,2 @@
-export function numSquarefulPerms(A: number[]): number {
-
-};
+export function numSquarefulPerms(A: number[]): number {}
+;

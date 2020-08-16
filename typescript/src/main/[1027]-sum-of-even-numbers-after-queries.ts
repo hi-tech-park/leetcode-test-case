@@ -1,3 +1,2 @@
-export function sumEvenAfterQueries(A: number[], queries: number[][]): number[] {
-
-};
+export function sumEvenAfterQueries(A: number[], queries: number[][]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function spellchecker(wordlist: string[], queries: string[]): string[] {
-
-};
+export function spellchecker(wordlist: string[], queries: string[]): string[] {}
+;

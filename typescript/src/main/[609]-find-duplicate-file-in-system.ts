@@ -1,3 +1,2 @@
-export function findDuplicate(paths: string[]): string[][] {
-
-};
+export function findDuplicate(paths: string[]): string[][] {}
+;

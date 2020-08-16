@@ -1,3 +1,2 @@
-export function arrangeWords(text: string): string {
-
-};
+export function arrangeWords(text: string): string {}
+;

@@ -1,3 +1,2 @@
-export function lengthOfLongestSubstring(s: string): number {
-
-};
+export function lengthOfLongestSubstring(s: string): number {}
+;

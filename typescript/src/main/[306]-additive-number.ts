@@ -1,3 +1,2 @@
-export function isAdditiveNumber(num: string): boolean {
-
-};
+export function isAdditiveNumber(num: string): boolean {}
+;

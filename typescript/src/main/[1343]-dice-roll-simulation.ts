@@ -1,3 +1,2 @@
-export function dieSimulator(n: number, rollMax: number[]): number {
-
-};
+export function dieSimulator(n: number, rollMax: number[]): number {}
+;

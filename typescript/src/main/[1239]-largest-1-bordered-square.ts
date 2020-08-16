@@ -1,3 +1,2 @@
-export function largest1BorderedSquare(grid: number[][]): number {
-
-};
+export function largest1BorderedSquare(grid: number[][]): number {}
+;

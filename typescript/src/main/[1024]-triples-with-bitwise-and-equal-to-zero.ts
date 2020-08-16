@@ -1,3 +1,2 @@
-export function countTriplets(A: number[]): number {
-
-};
+export function countTriplets(A: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function advantageCount(A: number[], B: number[]): number[] {
-
-};
+export function advantageCount(A: number[], B: number[]): number[] {}
+;

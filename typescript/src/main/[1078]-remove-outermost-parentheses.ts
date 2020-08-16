@@ -1,3 +1,2 @@
-export function removeOuterParentheses(S: string): string {
-
-};
+export function removeOuterParentheses(S: string): string {}
+;

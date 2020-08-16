@@ -1,3 +1,2 @@
-export function hasAllCodes(s: string, k: number): boolean {
-
-};
+export function hasAllCodes(s: string, k: number): boolean {}
+;

@@ -1,3 +1,2 @@
-export function numRabbits(answers: number[]): number {
-
-};
+export function numRabbits(answers: number[]): number {}
+;

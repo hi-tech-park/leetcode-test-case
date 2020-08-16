@@ -1,3 +1,2 @@
-export function countOrders(n: number): number {
-
-};
+export function countOrders(n: number): number {}
+;

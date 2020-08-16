@@ -1,3 +1,2 @@
-export function canReach(arr: number[], start: number): boolean {
-
-};
+export function canReach(arr: number[], start: number): boolean {}
+;

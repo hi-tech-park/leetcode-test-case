@@ -1,3 +1,2 @@
-export function minCost(grid: number[][]): number {
-
-};
+export function minCost(grid: number[][]): number {}
+;

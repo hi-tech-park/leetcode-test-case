@@ -1,3 +1,2 @@
-export function canIWin(maxChoosableInteger: number, desiredTotal: number): boolean {
-
-};
+export function canIWin(maxChoosableInteger: number, desiredTotal: number): boolean {}
+;

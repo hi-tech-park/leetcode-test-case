@@ -1,3 +1,2 @@
-export function countPalindromicSubsequences(S: string): number {
-
-};
+export function countPalindromicSubsequences(S: string): number {}
+;

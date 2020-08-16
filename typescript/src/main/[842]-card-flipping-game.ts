@@ -1,3 +1,2 @@
-export function flipgame(fronts: number[], backs: number[]): number {
-
-};
+export function flipgame(fronts: number[], backs: number[]): number {}
+;

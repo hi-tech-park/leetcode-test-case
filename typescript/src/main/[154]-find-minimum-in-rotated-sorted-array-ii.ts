@@ -1,3 +1,2 @@
-export function findMin(nums: number[]): number {
-
-};
+export function findMin(nums: number[]): number {}
+;

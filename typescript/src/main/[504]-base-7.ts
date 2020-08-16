@@ -1,3 +1,2 @@
-export function convertToBase7(num: number): string {
-
-};
+export function convertToBase7(num: number): string {}
+;

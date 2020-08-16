@@ -1,3 +1,2 @@
-export function findMinFibonacciNumbers(k: number): number {
-
-};
+export function findMinFibonacciNumbers(k: number): number {}
+;

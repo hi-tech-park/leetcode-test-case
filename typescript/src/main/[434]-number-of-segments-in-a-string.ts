@@ -1,3 +1,2 @@
-export function countSegments(s: string): number {
-
-};
+export function countSegments(s: string): number {}
+;

@@ -1,3 +1,2 @@
-export function maxDepthAfterSplit(seq: string): number[] {
-
-};
+export function maxDepthAfterSplit(seq: string): number[] {}
+;

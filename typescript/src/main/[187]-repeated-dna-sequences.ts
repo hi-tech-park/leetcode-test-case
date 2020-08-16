@@ -1,3 +1,2 @@
-export function findRepeatedDnaSequences(s: string): string[] {
-
-};
+export function findRepeatedDnaSequences(s: string): string[] {}
+;

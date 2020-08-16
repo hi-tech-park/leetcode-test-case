@@ -1,3 +1,2 @@
-export function minRemoveToMakeValid(s: string): string {
-
-};
+export function minRemoveToMakeValid(s: string): string {}
+;

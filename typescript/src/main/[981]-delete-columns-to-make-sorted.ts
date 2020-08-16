@@ -1,3 +1,2 @@
-export function minDeletionSize(A: string[]): number {
-
-};
+export function minDeletionSize(A: string[]): number {}
+;

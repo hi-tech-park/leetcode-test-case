@@ -1,3 +1,2 @@
-export function removeComments(source: string[]): string[] {
-
-};
+export function removeComments(source: string[]): string[] {}
+;

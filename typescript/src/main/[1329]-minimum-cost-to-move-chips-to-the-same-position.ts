@@ -1,3 +1,2 @@
-export function minCostToMoveChips(position: number[]): number {
-
-};
+export function minCostToMoveChips(position: number[]): number {}
+;

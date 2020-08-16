@@ -1,3 +1,2 @@
-export function canCompleteCircuit(gas: number[], cost: number[]): number {
-
-};
+export function canCompleteCircuit(gas: number[], cost: number[]): number {}
+;

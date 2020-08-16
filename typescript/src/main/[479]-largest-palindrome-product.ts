@@ -1,3 +1,2 @@
-export function largestPalindrome(n: number): number {
-
-};
+export function largestPalindrome(n: number): number {}
+;

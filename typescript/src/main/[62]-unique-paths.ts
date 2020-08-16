@@ -1,3 +1,2 @@
-export function uniquePaths(m: number, n: number): number {
-
-};
+export function uniquePaths(m: number, n: number): number {}
+;

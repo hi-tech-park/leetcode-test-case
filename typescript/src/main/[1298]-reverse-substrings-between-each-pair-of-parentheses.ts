@@ -1,3 +1,2 @@
-export function reverseParentheses(s: string): string {
-
-};
+export function reverseParentheses(s: string): string {}
+;

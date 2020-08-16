@@ -1,3 +1,2 @@
-export function findMinHeightTrees(n: number, edges: number[][]): number[] {
-
-};
+export function findMinHeightTrees(n: number, edges: number[][]): number[] {}
+;

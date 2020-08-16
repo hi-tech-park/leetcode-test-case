@@ -1,3 +1,2 @@
-export function kLengthApart(nums: number[], k: number): boolean {
-
-};
+export function kLengthApart(nums: number[], k: number): boolean {}
+;

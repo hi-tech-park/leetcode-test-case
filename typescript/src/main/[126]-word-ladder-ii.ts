@@ -1,3 +1,2 @@
-export function findLadders(beginWord: string, endWord: string, wordList: string[]): string[][] {
-
-};
+export function findLadders(beginWord: string, endWord: string, wordList: string[]): string[][] {}
+;

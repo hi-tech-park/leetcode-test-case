@@ -1,3 +1,2 @@
-export function kthSmallestPrimeFraction(A: number[], K: number): number[] {
-
-};
+export function kthSmallestPrimeFraction(A: number[], K: number): number[] {}
+;

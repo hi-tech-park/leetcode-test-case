@@ -1,3 +1,2 @@
-export function canThreePartsEqualSum(A: number[]): boolean {
-
-};
+export function canThreePartsEqualSum(A: number[]): boolean {}
+;

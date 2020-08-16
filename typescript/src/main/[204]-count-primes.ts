@@ -1,3 +1,2 @@
-export function countPrimes(n: number): number {
-
-};
+export function countPrimes(n: number): number {}
+;

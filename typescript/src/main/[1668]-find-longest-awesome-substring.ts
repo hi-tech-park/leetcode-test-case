@@ -1,3 +1,2 @@
-export function longestAwesome(s: string): number {
-
-};
+export function longestAwesome(s: string): number {}
+;

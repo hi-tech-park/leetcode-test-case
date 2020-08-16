@@ -1,3 +1,2 @@
-export function minAddToMakeValid(S: string): number {
-
-};
+export function minAddToMakeValid(S: string): number {}
+;

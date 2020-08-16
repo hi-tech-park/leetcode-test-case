@@ -1,3 +1,2 @@
-export function leastBricks(wall: number[][]): number {
-
-};
+export function leastBricks(wall: number[][]): number {}
+;

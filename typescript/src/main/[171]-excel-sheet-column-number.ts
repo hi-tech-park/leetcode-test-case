@@ -1,3 +1,2 @@
-export function titleToNumber(s: string): number {
-
-};
+export function titleToNumber(s: string): number {}
+;

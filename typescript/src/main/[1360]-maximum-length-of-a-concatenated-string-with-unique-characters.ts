@@ -1,3 +1,2 @@
-export function maxLength(arr: string[]): number {
-
-};
+export function maxLength(arr: string[]): number {}
+;

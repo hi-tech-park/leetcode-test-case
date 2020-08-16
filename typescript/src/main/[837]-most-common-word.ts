@@ -1,3 +1,2 @@
-export function mostCommonWord(paragraph: string, banned: string[]): string {
-
-};
+export function mostCommonWord(paragraph: string, banned: string[]): string {}
+;

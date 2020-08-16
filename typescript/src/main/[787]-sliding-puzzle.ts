@@ -1,3 +1,2 @@
-export function slidingPuzzle(board: number[][]): number {
-
-};
+export function slidingPuzzle(board: number[][]): number {}
+;

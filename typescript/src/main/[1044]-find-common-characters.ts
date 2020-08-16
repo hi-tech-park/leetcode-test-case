@@ -1,3 +1,2 @@
-export function commonChars(A: string[]): string[] {
-
-};
+export function commonChars(A: string[]): string[] {}
+;

@@ -1,3 +1,2 @@
-export function uniqueOccurrences(arr: number[]): boolean {
-
-};
+export function uniqueOccurrences(arr: number[]): boolean {}
+;

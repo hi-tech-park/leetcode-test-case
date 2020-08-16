@@ -1,3 +1,2 @@
-export function maxSubarraySumCircular(A: number[]): number {
-
-};
+export function maxSubarraySumCircular(A: number[]): number {}
+;

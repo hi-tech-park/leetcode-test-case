@@ -1,3 +1,2 @@
-export function maximumSum(arr: number[]): number {
-
-};
+export function maximumSum(arr: number[]): number {}
+;

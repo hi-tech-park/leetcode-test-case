@@ -1,3 +1,2 @@
-export function numberOfSteps (num: number): number {
-
-};
+export function numberOfSteps(num: number): number {}
+;

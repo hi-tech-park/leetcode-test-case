@@ -1,3 +1,2 @@
-export function sequentialDigits(low: number, high: number): number[] {
-
-};
+export function sequentialDigits(low: number, high: number): number[] {}
+;

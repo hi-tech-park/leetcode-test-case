@@ -1,3 +1,2 @@
-export function findLeastNumOfUniqueInts(arr: number[], k: number): number {
-
-};
+export function findLeastNumOfUniqueInts(arr: number[], k: number): number {}
+;

@@ -1,3 +1,2 @@
-export function equalSubstring(s: string, t: string, maxCost: number): number {
-
-};
+export function equalSubstring(s: string, t: string, maxCost: number): number {}
+;

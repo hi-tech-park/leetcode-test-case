@@ -1,3 +1,2 @@
-export function findNumOfValidWords(words: string[], puzzles: string[]): number[] {
-
-};
+export function findNumOfValidWords(words: string[], puzzles: string[]): number[] {}
+;

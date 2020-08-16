@@ -1,3 +1,2 @@
-export function addDigits(num: number): number {
-
-};
+export function addDigits(num: number): number {}
+;

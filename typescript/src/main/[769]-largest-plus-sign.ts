@@ -1,3 +1,2 @@
-export function orderOfLargestPlusSign(N: number, mines: number[][]): number {
-
-};
+export function orderOfLargestPlusSign(N: number, mines: number[][]): number {}
+;

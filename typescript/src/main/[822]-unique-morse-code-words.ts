@@ -1,3 +1,2 @@
-export function uniqueMorseRepresentations(words: string[]): number {
-
-};
+export function uniqueMorseRepresentations(words: string[]): number {}
+;

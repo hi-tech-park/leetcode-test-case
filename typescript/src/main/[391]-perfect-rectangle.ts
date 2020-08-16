@@ -1,3 +1,2 @@
-export function isRectangleCover(rectangles: number[][]): boolean {
-
-};
+export function isRectangleCover(rectangles: number[][]): boolean {}
+;

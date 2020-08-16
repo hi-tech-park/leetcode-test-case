@@ -1,3 +1,2 @@
-export function wordBreak(s: string, wordDict: string[]): boolean {
-
-};
+export function wordBreak(s: string, wordDict: string[]): boolean {}
+;

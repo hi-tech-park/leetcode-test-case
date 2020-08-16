@@ -1,3 +1,2 @@
-export function imageSmoother(M: number[][]): number[][] {
-
-};
+export function imageSmoother(M: number[][]): number[][] {}
+;

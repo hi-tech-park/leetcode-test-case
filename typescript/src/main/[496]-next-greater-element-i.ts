@@ -1,3 +1,2 @@
-export function nextGreaterElement(nums1: number[], nums2: number[]): number[] {
-
-};
+export function nextGreaterElement(nums1: number[], nums2: number[]): number[] {}
+;

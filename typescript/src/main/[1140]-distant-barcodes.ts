@@ -1,3 +1,2 @@
-export function rearrangeBarcodes(barcodes: number[]): number[] {
-
-};
+export function rearrangeBarcodes(barcodes: number[]): number[] {}
+;

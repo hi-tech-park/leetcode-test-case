@@ -1,3 +1,2 @@
-export function primePalindrome(N: number): number {
-
-};
+export function primePalindrome(N: number): number {}
+;

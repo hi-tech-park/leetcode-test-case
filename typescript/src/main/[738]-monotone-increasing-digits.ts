@@ -1,3 +1,2 @@
-export function monotoneIncreasingDigits(N: number): number {
-
-};
+export function monotoneIncreasingDigits(N: number): number {}
+;

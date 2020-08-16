@@ -1,3 +1,2 @@
-export function searchRange(nums: number[], target: number): number[] {
-
-};
+export function searchRange(nums: number[], target: number): number[] {}
+;

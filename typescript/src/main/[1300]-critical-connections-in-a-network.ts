@@ -1,3 +1,2 @@
-export function criticalConnections(n: number, connections: number[][]): number[][] {
-
-};
+export function criticalConnections(n: number, connections: number[][]): number[][] {}
+;

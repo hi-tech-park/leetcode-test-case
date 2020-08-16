@@ -1,3 +1,2 @@
-export function reverse(x: number): number {
-
-};
+export function reverse(x: number): number {}
+;

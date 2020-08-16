@@ -1,3 +1,2 @@
-export function nextGreatestLetter(letters: string[], target: string): string {
-
-};
+export function nextGreatestLetter(letters: string[], target: string): string {}
+;

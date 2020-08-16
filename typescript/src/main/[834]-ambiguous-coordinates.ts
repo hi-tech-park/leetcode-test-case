@@ -1,3 +1,2 @@
-export function ambiguousCoordinates(S: string): string[] {
-
-};
+export function ambiguousCoordinates(S: string): string[] {}
+;

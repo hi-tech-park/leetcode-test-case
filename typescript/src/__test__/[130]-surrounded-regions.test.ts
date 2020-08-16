@@ -1,8 +1,7 @@
 
-import {/**
- Do not return anything, modify board in-place instead.
- */
- solve } from '../main/[130]-surrounded-regions'
+import { solve } from '../main/[130]-surrounded-regions'
 describe('Surrounded Regions', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

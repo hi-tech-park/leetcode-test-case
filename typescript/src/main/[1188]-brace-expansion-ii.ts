@@ -1,3 +1,2 @@
-export function braceExpansionII(expression: string): string[] {
-
-};
+export function braceExpansionII(expression: string): string[] {}
+;

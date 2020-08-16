@@ -1,3 +1,2 @@
-export function canMakeArithmeticProgression(arr: number[]): boolean {
-
-};
+export function canMakeArithmeticProgression(arr: number[]): boolean {}
+;

@@ -1,3 +1,2 @@
-export function uncommonFromSentences(A: string, B: string): string[] {
-
-};
+export function uncommonFromSentences(A: string, B: string): string[] {}
+;

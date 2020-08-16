@@ -1,3 +1,2 @@
-export function stringMatching(words: string[]): string[] {
-
-};
+export function stringMatching(words: string[]): string[] {}
+;

@@ -1,3 +1,2 @@
-export function dominantIndex(nums: number[]): number {
-
-};
+export function dominantIndex(nums: number[]): number {}
+;

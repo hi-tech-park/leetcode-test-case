@@ -1,3 +1,2 @@
-export function lexicalOrder(n: number): number[] {
-
-};
+export function lexicalOrder(n: number): number[] {}
+;

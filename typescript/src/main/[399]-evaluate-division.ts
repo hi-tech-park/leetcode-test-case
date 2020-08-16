@@ -1,3 +1,2 @@
-export function calcEquation(equations: string[][], values: number[], queries: string[][]): number[] {
-
-};
+export function calcEquation(equations: string[][], values: number[], queries: string[][]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function subtractProductAndSum(n: number): number {
-
-};
+export function subtractProductAndSum(n: number): number {}
+;

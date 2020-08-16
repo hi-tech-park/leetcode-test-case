@@ -1,3 +1,2 @@
-export function maxNumOfSubstrings(s: string): string[] {
-
-};
+export function maxNumOfSubstrings(s: string): string[] {}
+;

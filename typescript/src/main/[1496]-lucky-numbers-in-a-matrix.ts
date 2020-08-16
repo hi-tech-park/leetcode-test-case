@@ -1,3 +1,2 @@
-export function luckyNumbers (matrix: number[][]): number[] {
-
-};
+export function luckyNumbers(matrix: number[][]): number[] {}
+;

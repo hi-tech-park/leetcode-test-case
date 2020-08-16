@@ -1,3 +1,2 @@
-export function selfDividingNumbers(left: number, right: number): number[] {
-
-};
+export function selfDividingNumbers(left: number, right: number): number[] {}
+;

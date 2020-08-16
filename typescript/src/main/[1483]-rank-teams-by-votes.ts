@@ -1,3 +1,2 @@
-export function rankTeams(votes: string[]): string {
-
-};
+export function rankTeams(votes: string[]): string {}
+;

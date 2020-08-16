@@ -1,3 +1,2 @@
-export function maxEvents(events: number[][]): number {
-
-};
+export function maxEvents(events: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function maxScoreSightseeingPair(A: number[]): number {
-
-};
+export function maxScoreSightseeingPair(A: number[]): number {}
+;

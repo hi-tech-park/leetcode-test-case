@@ -1,3 +1,2 @@
-export function wordPattern(pattern: string, str: string): boolean {
-
-};
+export function wordPattern(pattern: string, str: string): boolean {}
+;

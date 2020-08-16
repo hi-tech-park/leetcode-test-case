@@ -1,3 +1,2 @@
-export function numSubarraysWithSum(A: number[], S: number): number {
-
-};
+export function numSubarraysWithSum(A: number[], S: number): number {}
+;

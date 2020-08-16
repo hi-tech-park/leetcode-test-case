@@ -1,3 +1,2 @@
-export function bitwiseComplement(N: number): number {
-
-};
+export function bitwiseComplement(N: number): number {}
+;

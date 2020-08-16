@@ -1,3 +1,2 @@
-export function reversePairs(nums: number[]): number {
-
-};
+export function reversePairs(nums: number[]): number {}
+;

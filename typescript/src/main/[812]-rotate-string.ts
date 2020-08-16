@@ -1,3 +1,2 @@
-export function rotateString(A: string, B: string): boolean {
-
-};
+export function rotateString(A: string, B: string): boolean {}
+;

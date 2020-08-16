@@ -1,3 +1,2 @@
-export function numOfSubarrays(arr: number[], k: number, threshold: number): number {
-
-};
+export function numOfSubarrays(arr: number[], k: number, threshold: number): number {}
+;

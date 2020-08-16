@@ -1,3 +1,2 @@
-export function isRobotBounded(instructions: string): boolean {
-
-};
+export function isRobotBounded(instructions: string): boolean {}
+;

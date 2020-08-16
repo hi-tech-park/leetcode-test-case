@@ -1,3 +1,2 @@
-export function findLengthOfLCIS(nums: number[]): number {
-
-};
+export function findLengthOfLCIS(nums: number[]): number {}
+;

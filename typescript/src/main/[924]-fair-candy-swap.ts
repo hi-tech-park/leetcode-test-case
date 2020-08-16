@@ -1,3 +1,2 @@
-export function fairCandySwap(A: number[], B: number[]): number[] {
-
-};
+export function fairCandySwap(A: number[], B: number[]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function judgeCircle(moves: string): boolean {
-
-};
+export function judgeCircle(moves: string): boolean {}
+;

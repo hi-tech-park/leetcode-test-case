@@ -1,3 +1,2 @@
-export function simplifiedFractions(n: number): string[] {
-
-};
+export function simplifiedFractions(n: number): string[] {}
+;

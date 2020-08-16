@@ -1,3 +1,2 @@
-export function countBinarySubstrings(s: string): number {
-
-};
+export function countBinarySubstrings(s: string): number {}
+;

@@ -1,3 +1,2 @@
-export function licenseKeyFormatting(S: string, K: number): string {
-
-};
+export function licenseKeyFormatting(S: string, K: number): string {}
+;

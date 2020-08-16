@@ -1,3 +1,2 @@
-export function spiralOrder(matrix: number[][]): number[] {
-
-};
+export function spiralOrder(matrix: number[][]): number[] {}
+;

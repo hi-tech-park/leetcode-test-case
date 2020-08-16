@@ -1,3 +1,2 @@
-export function findRedundantConnection(edges: number[][]): number[] {
-
-};
+export function findRedundantConnection(edges: number[][]): number[] {}
+;

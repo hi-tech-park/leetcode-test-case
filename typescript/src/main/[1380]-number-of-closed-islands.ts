@@ -1,3 +1,2 @@
-export function closedIsland(grid: number[][]): number {
-
-};
+export function closedIsland(grid: number[][]): number {}
+;

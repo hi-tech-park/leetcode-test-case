@@ -1,3 +1,2 @@
-export function largestTimeFromDigits(A: number[]): string {
-
-};
+export function largestTimeFromDigits(A: number[]): string {}
+;

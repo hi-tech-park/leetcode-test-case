@@ -1,3 +1,2 @@
-export function isToeplitzMatrix(matrix: number[][]): boolean {
-
-};
+export function isToeplitzMatrix(matrix: number[][]): boolean {}
+;

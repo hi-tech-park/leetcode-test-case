@@ -1,3 +1,2 @@
-export function checkIfCanBreak(s1: string, s2: string): boolean {
-
-};
+export function checkIfCanBreak(s1: string, s2: string): boolean {}
+;

@@ -1,16 +1,3 @@
-import { ListNode } from './[0]-list-node'
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor(val?: number, next?: ListNode | null) {
- *         this.val = (val===undefined ? 0 : val)
- *         this.next = (next===undefined ? null : next)
- *     }
- * }
- */
-
-export function mergeKLists(lists: Array<ListNode | null>): ListNode | null {
-  return null;
-};
+import { ListNode } from './[0]-list-node';
+export function mergeKLists(lists: Array<ListNode | null>): ListNode | null {}
+;

@@ -1,3 +1,2 @@
-export function mctFromLeafValues(arr: number[]): number {
-
-};
+export function mctFromLeafValues(arr: number[]): number {}
+;

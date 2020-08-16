@@ -1,3 +1,2 @@
-export function numRescueBoats(people: number[], limit: number): number {
-
-};
+export function numRescueBoats(people: number[], limit: number): number {}
+;

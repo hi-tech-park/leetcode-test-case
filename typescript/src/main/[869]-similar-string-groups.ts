@@ -1,3 +1,2 @@
-export function numSimilarGroups(A: string[]): number {
-
-};
+export function numSimilarGroups(A: string[]): number {}
+;

@@ -1,3 +1,2 @@
-export function removeSubfolders(folder: string[]): string[] {
-
-};
+export function removeSubfolders(folder: string[]): string[] {}
+;

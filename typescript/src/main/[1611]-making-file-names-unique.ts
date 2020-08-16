@@ -1,3 +1,2 @@
-export function getFolderNames(names: string[]): string[] {
-
-};
+export function getFolderNames(names: string[]): string[] {}
+;

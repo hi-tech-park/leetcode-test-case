@@ -1,3 +1,2 @@
-export function jump(nums: number[]): number {
-
-};
+export function jump(nums: number[]): number {}
+;

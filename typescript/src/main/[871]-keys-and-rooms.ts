@@ -1,3 +1,2 @@
-export function canVisitAllRooms(rooms: number[][]): boolean {
-
-};
+export function canVisitAllRooms(rooms: number[][]): boolean {}
+;

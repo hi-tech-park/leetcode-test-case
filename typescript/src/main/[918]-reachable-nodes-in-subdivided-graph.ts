@@ -1,3 +1,2 @@
-export function reachableNodes(edges: number[][], M: number, N: number): number {
-
-};
+export function reachableNodes(edges: number[][], M: number, N: number): number {}
+;

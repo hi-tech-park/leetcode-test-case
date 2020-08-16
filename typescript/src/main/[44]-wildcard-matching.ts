@@ -1,3 +1,2 @@
-export function isMatch(s: string, p: string): boolean {
-
-};
+export function isMatch(s: string, p: string): boolean {}
+;

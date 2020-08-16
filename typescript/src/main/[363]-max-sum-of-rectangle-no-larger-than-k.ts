@@ -1,3 +1,2 @@
-export function maxSumSubmatrix(matrix: number[][], k: number): number {
-
-};
+export function maxSumSubmatrix(matrix: number[][], k: number): number {}
+;

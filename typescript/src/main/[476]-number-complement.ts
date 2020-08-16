@@ -1,3 +1,2 @@
-export function findComplement(num: number): number {
-
-};
+export function findComplement(num: number): number {}
+;

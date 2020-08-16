@@ -1,3 +1,2 @@
-export function triangleNumber(nums: number[]): number {
-
-};
+export function triangleNumber(nums: number[]): number {}
+;

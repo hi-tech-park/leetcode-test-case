@@ -1,3 +1,2 @@
-export function updateBoard(board: string[][], click: number[]): string[][] {
-
-};
+export function updateBoard(board: string[][], click: number[]): string[][] {}
+;

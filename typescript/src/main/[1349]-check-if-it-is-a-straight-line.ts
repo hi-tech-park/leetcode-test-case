@@ -1,3 +1,2 @@
-export function checkStraightLine(coordinates: number[][]): boolean {
-
-};
+export function checkStraightLine(coordinates: number[][]): boolean {}
+;

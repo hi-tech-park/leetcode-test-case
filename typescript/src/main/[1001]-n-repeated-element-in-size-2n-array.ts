@@ -1,3 +1,2 @@
-export function repeatedNTimes(A: number[]): number {
-
-};
+export function repeatedNTimes(A: number[]): number {}
+;

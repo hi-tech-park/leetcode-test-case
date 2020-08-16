@@ -1,3 +1,2 @@
-export function isUgly(num: number): boolean {
-
-};
+export function isUgly(num: number): boolean {}
+;

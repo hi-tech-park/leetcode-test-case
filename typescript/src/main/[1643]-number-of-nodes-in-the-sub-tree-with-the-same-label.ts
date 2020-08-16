@@ -1,3 +1,2 @@
-export function countSubTrees(n: number, edges: number[][], labels: string): number[] {
-
-};
+export function countSubTrees(n: number, edges: number[][], labels: string): number[] {}
+;

@@ -1,3 +1,2 @@
-export function trapRainWater(heightMap: number[][]): number {
-
-};
+export function trapRainWater(heightMap: number[][]): number {}
+;

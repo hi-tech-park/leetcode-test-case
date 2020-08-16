@@ -1,3 +1,2 @@
-export function isPerfectSquare(num: number): boolean {
-
-};
+export function isPerfectSquare(num: number): boolean {}
+;

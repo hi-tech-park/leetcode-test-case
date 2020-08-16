@@ -1,3 +1,2 @@
-export function basicCalculatorIV(expression: string, evalvars: string[], evalints: number[]): string[] {
-
-};
+export function basicCalculatorIV(expression: string, evalvars: string[], evalints: number[]): string[] {}
+;

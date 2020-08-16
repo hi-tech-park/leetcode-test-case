@@ -1,3 +1,2 @@
-export function canBeEqual(target: number[], arr: number[]): boolean {
-
-};
+export function canBeEqual(target: number[], arr: number[]): boolean {}
+;

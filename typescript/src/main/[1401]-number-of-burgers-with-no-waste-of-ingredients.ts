@@ -1,3 +1,2 @@
-export function numOfBurgers(tomatoSlices: number, cheeseSlices: number): number[] {
-
-};
+export function numOfBurgers(tomatoSlices: number, cheeseSlices: number): number[] {}
+;

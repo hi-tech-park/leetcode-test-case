@@ -1,3 +1,2 @@
-export function maxPower(s: string): number {
-
-};
+export function maxPower(s: string): number {}
+;

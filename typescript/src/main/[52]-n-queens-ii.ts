@@ -1,3 +1,2 @@
-export function totalNQueens(n: number): number {
-
-};
+export function totalNQueens(n: number): number {}
+;

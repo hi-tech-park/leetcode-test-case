@@ -1,3 +1,2 @@
-export function getLastMoment(n: number, left: number[], right: number[]): number {
-
-};
+export function getLastMoment(n: number, left: number[], right: number[]): number {}
+;

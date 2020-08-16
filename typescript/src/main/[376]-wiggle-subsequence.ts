@@ -1,3 +1,2 @@
-export function wiggleMaxLength(nums: number[]): number {
-
-};
+export function wiggleMaxLength(nums: number[]): number {}
+;

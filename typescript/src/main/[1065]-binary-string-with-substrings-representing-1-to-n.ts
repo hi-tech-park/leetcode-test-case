@@ -1,3 +1,2 @@
-export function queryString(S: string, N: number): boolean {
-
-};
+export function queryString(S: string, N: number): boolean {}
+;

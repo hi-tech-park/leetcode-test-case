@@ -1,3 +1,2 @@
-export function reachNumber(target: number): number {
-
-};
+export function reachNumber(target: number): number {}
+;

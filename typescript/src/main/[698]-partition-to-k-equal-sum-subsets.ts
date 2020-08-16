@@ -1,3 +1,2 @@
-export function canPartitionKSubsets(nums: number[], k: number): boolean {
-
-};
+export function canPartitionKSubsets(nums: number[], k: number): boolean {}
+;

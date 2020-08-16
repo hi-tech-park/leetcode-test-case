@@ -1,3 +1,2 @@
-export function diagonalSort(mat: number[][]): number[][] {
-
-};
+export function diagonalSort(mat: number[][]): number[][] {}
+;

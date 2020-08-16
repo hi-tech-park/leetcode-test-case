@@ -1,3 +1,2 @@
-export function threeSumMulti(A: number[], target: number): number {
-
-};
+export function threeSumMulti(A: number[], target: number): number {}
+;

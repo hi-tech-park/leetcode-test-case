@@ -1,3 +1,2 @@
-export function numSpecialEquivGroups(A: string[]): number {
-
-};
+export function numSpecialEquivGroups(A: string[]): number {}
+;

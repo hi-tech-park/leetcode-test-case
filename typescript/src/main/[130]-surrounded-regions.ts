@@ -1,6 +1,2 @@
-export /**
- Do not return anything, modify board in-place instead.
- */
-function solve(board: string[][]): void {
-
-};
+export function solve(board: string[][]): void {}
+;

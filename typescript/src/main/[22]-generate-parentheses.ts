@@ -1,3 +1,2 @@
-export function generateParenthesis(n: number): string[] {
-
-};
+export function generateParenthesis(n: number): string[] {}
+;

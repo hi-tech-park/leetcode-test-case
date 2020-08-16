@@ -1,3 +1,2 @@
-export function getStrongest(arr: number[], k: number): number[] {
-
-};
+export function getStrongest(arr: number[], k: number): number[] {}
+;

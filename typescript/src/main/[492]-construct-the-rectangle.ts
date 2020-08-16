@@ -1,3 +1,2 @@
-export function constructRectangle(area: number): number[] {
-
-};
+export function constructRectangle(area: number): number[] {}
+;

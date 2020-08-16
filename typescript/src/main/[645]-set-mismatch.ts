@@ -1,3 +1,2 @@
-export function findErrorNums(nums: number[]): number[] {
-
-};
+export function findErrorNums(nums: number[]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function largestNumber(cost: number[], target: number): string {
-
-};
+export function largestNumber(cost: number[], target: number): string {}
+;

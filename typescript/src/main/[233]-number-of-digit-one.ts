@@ -1,3 +1,2 @@
-export function countDigitOne(n: number): number {
-
-};
+export function countDigitOne(n: number): number {}
+;

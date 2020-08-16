@@ -1,3 +1,2 @@
-export function minSwapsCouples(row: number[]): number {
-
-};
+export function minSwapsCouples(row: number[]): number {}
+;

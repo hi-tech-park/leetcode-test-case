@@ -1,3 +1,2 @@
-export function subarraysDivByK(A: number[], K: number): number {
-
-};
+export function subarraysDivByK(A: number[], K: number): number {}
+;

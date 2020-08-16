@@ -1,3 +1,2 @@
-export function validTicTacToe(board: string[]): boolean {
-
-};
+export function validTicTacToe(board: string[]): boolean {}
+;

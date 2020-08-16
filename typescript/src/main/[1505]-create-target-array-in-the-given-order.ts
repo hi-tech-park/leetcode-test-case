@@ -1,3 +1,2 @@
-export function createTargetArray(nums: number[], index: number[]): number[] {
-
-};
+export function createTargetArray(nums: number[], index: number[]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function isRationalEqual(S: string, T: string): boolean {
-
-};
+export function isRationalEqual(S: string, T: string): boolean {}
+;

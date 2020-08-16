@@ -1,3 +1,2 @@
-export function diStringMatch(S: string): number[] {
-
-};
+export function diStringMatch(S: string): number[] {}
+;

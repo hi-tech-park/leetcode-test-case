@@ -1,3 +1,2 @@
-export function numDecodings(s: string): number {
-
-};
+export function numDecodings(s: string): number {}
+;

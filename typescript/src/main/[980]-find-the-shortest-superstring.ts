@@ -1,3 +1,2 @@
-export function shortestSuperstring(A: string[]): string {
-
-};
+export function shortestSuperstring(A: string[]): string {}
+;

@@ -1,3 +1,2 @@
-export function numPermsDISequence(S: string): number {
-
-};
+export function numPermsDISequence(S: string): number {}
+;

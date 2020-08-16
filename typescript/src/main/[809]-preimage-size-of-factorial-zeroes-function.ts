@@ -1,3 +1,2 @@
-export function preimageSizeFZF(K: number): number {
-
-};
+export function preimageSizeFZF(K: number): number {}
+;

@@ -1,3 +1,2 @@
-export function islandPerimeter(grid: number[][]): number {
-
-};
+export function islandPerimeter(grid: number[][]): number {}
+;

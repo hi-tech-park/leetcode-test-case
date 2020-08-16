@@ -1,3 +1,2 @@
-export function numPoints(points: number[][], r: number): number {
-
-};
+export function numPoints(points: number[][], r: number): number {}
+;

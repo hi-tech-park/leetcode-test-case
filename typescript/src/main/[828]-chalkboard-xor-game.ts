@@ -1,3 +1,2 @@
-export function xorGame(nums: number[]): boolean {
-
-};
+export function xorGame(nums: number[]): boolean {}
+;

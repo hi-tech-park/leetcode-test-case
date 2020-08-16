@@ -1,3 +1,2 @@
-export function minNumberOfSemesters(n: number, dependencies: number[][], k: number): number {
-
-};
+export function minNumberOfSemesters(n: number, dependencies: number[][], k: number): number {}
+;

@@ -1,3 +1,2 @@
-export function maxArea(h: number, w: number, horizontalCuts: number[], verticalCuts: number[]): number {
-
-};
+export function maxArea(h: number, w: number, horizontalCuts: number[], verticalCuts: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function avoidFlood(rains: number[]): number[] {
-
-};
+export function avoidFlood(rains: number[]): number[] {}
+;

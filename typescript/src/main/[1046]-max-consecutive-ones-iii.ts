@@ -1,3 +1,2 @@
-export function longestOnes(A: number[], K: number): number {
-
-};
+export function longestOnes(A: number[], K: number): number {}
+;

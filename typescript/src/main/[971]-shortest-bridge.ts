@@ -1,3 +1,2 @@
-export function shortestBridge(A: number[][]): number {
-
-};
+export function shortestBridge(A: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function uniquePathsWithObstacles(obstacleGrid: number[][]): number {
-
-};
+export function uniquePathsWithObstacles(obstacleGrid: number[][]): number {}
+;

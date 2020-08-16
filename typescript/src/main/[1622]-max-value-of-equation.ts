@@ -1,3 +1,2 @@
-export function findMaxValueOfEquation(points: number[][], k: number): number {
-
-};
+export function findMaxValueOfEquation(points: number[][], k: number): number {}
+;

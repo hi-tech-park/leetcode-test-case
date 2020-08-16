@@ -1,3 +1,2 @@
-export function flipAndInvertImage(A: number[][]): number[][] {
-
-};
+export function flipAndInvertImage(A: number[][]): number[][] {}
+;

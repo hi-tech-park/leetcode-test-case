@@ -1,3 +1,2 @@
-export function minJumps(arr: number[]): number {
-
-};
+export function minJumps(arr: number[]): number {}
+;

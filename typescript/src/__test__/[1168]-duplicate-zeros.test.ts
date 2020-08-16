@@ -1,8 +1,7 @@
 
-import {/**
- Do not return anything, modify arr in-place instead.
- */
- duplicateZeros } from '../main/[1168]-duplicate-zeros'
+import { duplicateZeros } from '../main/[1168]-duplicate-zeros'
 describe('Duplicate Zeros', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

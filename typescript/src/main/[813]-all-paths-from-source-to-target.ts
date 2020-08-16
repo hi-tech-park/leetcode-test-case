@@ -1,3 +1,2 @@
-export function allPathsSourceTarget(graph: number[][]): number[][] {
-
-};
+export function allPathsSourceTarget(graph: number[][]): number[][] {}
+;

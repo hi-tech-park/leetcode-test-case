@@ -1,3 +1,2 @@
-export function sumFourDivisors(nums: number[]): number {
-
-};
+export function sumFourDivisors(nums: number[]): number {}
+;

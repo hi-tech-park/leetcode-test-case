@@ -1,3 +1,2 @@
-export function canMakePaliQueries(s: string, queries: number[][]): boolean[] {
-
-};
+export function canMakePaliQueries(s: string, queries: number[][]): boolean[] {}
+;

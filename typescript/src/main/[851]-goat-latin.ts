@@ -1,3 +1,2 @@
-export function toGoatLatin(S: string): string {
-
-};
+export function toGoatLatin(S: string): string {}
+;

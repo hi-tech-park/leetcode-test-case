@@ -1,3 +1,2 @@
-export function maxDistance(grid: number[][]): number {
-
-};
+export function maxDistance(grid: number[][]): number {}
+;

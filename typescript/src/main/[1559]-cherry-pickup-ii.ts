@@ -1,3 +1,2 @@
-export function cherryPickup(grid: number[][]): number {
-
-};
+export function cherryPickup(grid: number[][]): number {}
+;

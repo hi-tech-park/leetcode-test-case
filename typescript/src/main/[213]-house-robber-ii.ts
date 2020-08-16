@@ -1,3 +1,2 @@
-export function rob(nums: number[]): number {
-
-};
+export function rob(nums: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function cutOffTree(forest: number[][]): number {
-
-};
+export function cutOffTree(forest: number[][]): number {}
+;

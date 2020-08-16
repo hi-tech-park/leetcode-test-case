@@ -1,3 +1,2 @@
-export function alphabetBoardPath(target: string): string {
-
-};
+export function alphabetBoardPath(target: string): string {}
+;

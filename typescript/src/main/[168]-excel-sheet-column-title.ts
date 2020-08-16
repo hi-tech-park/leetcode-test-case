@@ -1,3 +1,2 @@
-export function convertToTitle(n: number): string {
-
-};
+export function convertToTitle(n: number): string {}
+;

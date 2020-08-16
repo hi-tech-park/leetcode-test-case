@@ -1,3 +1,2 @@
-export function defangIPaddr(address: string): string {
-
-};
+export function defangIPaddr(address: string): string {}
+;

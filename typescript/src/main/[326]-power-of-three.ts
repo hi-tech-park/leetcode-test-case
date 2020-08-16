@@ -1,3 +1,2 @@
-export function isPowerOfThree(n: number): boolean {
-
-};
+export function isPowerOfThree(n: number): boolean {}
+;

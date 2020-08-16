@@ -1,3 +1,2 @@
-export function minIncrementForUnique(A: number[]): number {
-
-};
+export function minIncrementForUnique(A: number[]): number {}
+;

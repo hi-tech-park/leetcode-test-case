@@ -1,3 +1,2 @@
-export function lengthLongestPath(input: string): number {
-
-};
+export function lengthLongestPath(input: string): number {}
+;

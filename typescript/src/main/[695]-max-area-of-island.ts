@@ -1,3 +1,2 @@
-export function maxAreaOfIsland(grid: number[][]): number {
-
-};
+export function maxAreaOfIsland(grid: number[][]): number {}
+;

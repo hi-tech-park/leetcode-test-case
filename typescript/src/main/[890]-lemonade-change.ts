@@ -1,3 +1,2 @@
-export function lemonadeChange(bills: number[]): boolean {
-
-};
+export function lemonadeChange(bills: number[]): boolean {}
+;

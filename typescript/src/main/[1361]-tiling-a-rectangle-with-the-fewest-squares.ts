@@ -1,3 +1,2 @@
-export function tilingRectangle(n: number, m: number): number {
-
-};
+export function tilingRectangle(n: number, m: number): number {}
+;

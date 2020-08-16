@@ -1,3 +1,2 @@
-export function minCut(s: string): number {
-
-};
+export function minCut(s: string): number {}
+;

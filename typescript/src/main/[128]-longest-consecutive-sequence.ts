@@ -1,3 +1,2 @@
-export function longestConsecutive(nums: number[]): number {
-
-};
+export function longestConsecutive(nums: number[]): number {}
+;

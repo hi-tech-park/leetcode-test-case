@@ -1,3 +1,2 @@
-export function splitArraySameAverage(A: number[]): boolean {
-
-};
+export function splitArraySameAverage(A: number[]): boolean {}
+;

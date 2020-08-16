@@ -1,3 +1,2 @@
-export function magicalString(n: number): number {
-
-};
+export function magicalString(n: number): number {}
+;

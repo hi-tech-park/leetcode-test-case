@@ -1,3 +1,2 @@
-export function maxNumberOfBalloons(text: string): number {
-
-};
+export function maxNumberOfBalloons(text: string): number {}
+;

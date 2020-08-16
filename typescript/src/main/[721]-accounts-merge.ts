@@ -1,3 +1,2 @@
-export function accountsMerge(accounts: string[][]): string[][] {
-
-};
+export function accountsMerge(accounts: string[][]): string[][] {}
+;

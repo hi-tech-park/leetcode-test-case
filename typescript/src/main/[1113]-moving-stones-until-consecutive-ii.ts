@@ -1,3 +1,2 @@
-export function numMovesStonesII(stones: number[]): number[] {
-
-};
+export function numMovesStonesII(stones: number[]): number[] {}
+;

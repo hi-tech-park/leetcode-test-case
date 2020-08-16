@@ -1,3 +1,2 @@
-export function minFlips(mat: number[][]): number {
-
-};
+export function minFlips(mat: number[][]): number {}
+;

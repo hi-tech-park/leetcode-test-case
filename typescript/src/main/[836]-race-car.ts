@@ -1,3 +1,2 @@
-export function racecar(target: number): number {
-
-};
+export function racecar(target: number): number {}
+;

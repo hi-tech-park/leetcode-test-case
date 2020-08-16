@@ -1,3 +1,2 @@
-export function movesToChessboard(board: number[][]): number {
-
-};
+export function movesToChessboard(board: number[][]): number {}
+;

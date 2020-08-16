@@ -1,3 +1,2 @@
-export function getRow(rowIndex: number): number[] {
-
-};
+export function getRow(rowIndex: number): number[] {}
+;

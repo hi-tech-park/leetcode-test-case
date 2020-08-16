@@ -1,3 +1,2 @@
-export function findRelativeRanks(nums: number[]): string[] {
-
-};
+export function findRelativeRanks(nums: number[]): string[] {}
+;

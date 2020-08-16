@@ -1,3 +1,2 @@
-export function smallestGoodBase(n: string): string {
-
-};
+export function smallestGoodBase(n: string): string {}
+;

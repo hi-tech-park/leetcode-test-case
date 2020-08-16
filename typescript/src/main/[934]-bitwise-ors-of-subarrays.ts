@@ -1,3 +1,2 @@
-export function subarrayBitwiseORs(A: number[]): number {
-
-};
+export function subarrayBitwiseORs(A: number[]): number {}
+;

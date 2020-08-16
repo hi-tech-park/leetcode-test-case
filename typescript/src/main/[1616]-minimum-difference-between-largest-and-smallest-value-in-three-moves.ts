@@ -1,3 +1,2 @@
-export function minDifference(nums: number[]): number {
-
-};
+export function minDifference(nums: number[]): number {}
+;

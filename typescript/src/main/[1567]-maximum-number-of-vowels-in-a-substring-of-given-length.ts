@@ -1,3 +1,2 @@
-export function maxVowels(s: string, k: number): number {
-
-};
+export function maxVowels(s: string, k: number): number {}
+;

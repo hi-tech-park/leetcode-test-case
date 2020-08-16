@@ -1,3 +1,2 @@
-export function tallestBillboard(rods: number[]): number {
-
-};
+export function tallestBillboard(rods: number[]): number {}
+;

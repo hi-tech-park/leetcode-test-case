@@ -1,3 +1,2 @@
-export function reconstructMatrix(upper: number, lower: number, colsum: number[]): number[][] {
-
-};
+export function reconstructMatrix(upper: number, lower: number, colsum: number[]): number[][] {}
+;

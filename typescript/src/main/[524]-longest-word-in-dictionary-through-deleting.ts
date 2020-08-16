@@ -1,3 +1,2 @@
-export function findLongestWord(s: string, d: string[]): string {
-
-};
+export function findLongestWord(s: string, d: string[]): string {}
+;

@@ -1,3 +1,2 @@
-export function uniqueLetterString(s: string): number {
-
-};
+export function uniqueLetterString(s: string): number {}
+;

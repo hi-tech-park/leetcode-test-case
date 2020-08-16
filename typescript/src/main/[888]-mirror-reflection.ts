@@ -1,3 +1,2 @@
-export function mirrorReflection(p: number, q: number): number {
-
-};
+export function mirrorReflection(p: number, q: number): number {}
+;

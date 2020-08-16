@@ -1,3 +1,2 @@
-export function minimumDistance(word: string): number {
-
-};
+export function minimumDistance(word: string): number {}
+;

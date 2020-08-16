@@ -1,3 +1,2 @@
-export function kClosest(points: number[][], K: number): number[][] {
-
-};
+export function kClosest(points: number[][], K: number): number[][] {}
+;

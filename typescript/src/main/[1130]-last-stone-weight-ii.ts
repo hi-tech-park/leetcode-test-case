@@ -1,3 +1,2 @@
-export function lastStoneWeightII(stones: number[]): number {
-
-};
+export function lastStoneWeightII(stones: number[]): number {}
+;

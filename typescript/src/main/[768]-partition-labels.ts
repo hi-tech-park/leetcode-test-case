@@ -1,3 +1,2 @@
-export function partitionLabels(S: string): number[] {
-
-};
+export function partitionLabels(S: string): number[] {}
+;

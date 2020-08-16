@@ -1,3 +1,2 @@
-export function regionsBySlashes(grid: string[]): number {
-
-};
+export function regionsBySlashes(grid: string[]): number {}
+;

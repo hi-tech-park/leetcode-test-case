@@ -1,3 +1,2 @@
-export function loudAndRich(richer: number[][], quiet: number[]): number[] {
-
-};
+export function loudAndRich(richer: number[][], quiet: number[]): number[] {}
+;

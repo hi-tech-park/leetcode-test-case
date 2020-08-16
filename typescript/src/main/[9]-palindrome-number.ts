@@ -1,3 +1,2 @@
-export function isPalindrome(x: number): boolean {
-
-};
+export function isPalindrome(x: number): boolean {}
+;

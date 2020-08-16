@@ -1,3 +1,2 @@
-export function removeBoxes(boxes: number[]): number {
-
-};
+export function removeBoxes(boxes: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function maxScore(cardPoints: number[], k: number): number {
-
-};
+export function maxScore(cardPoints: number[], k: number): number {}
+;

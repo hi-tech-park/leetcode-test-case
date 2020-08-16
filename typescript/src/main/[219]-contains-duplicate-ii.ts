@@ -1,3 +1,2 @@
-export function containsNearbyDuplicate(nums: number[], k: number): boolean {
-
-};
+export function containsNearbyDuplicate(nums: number[], k: number): boolean {}
+;

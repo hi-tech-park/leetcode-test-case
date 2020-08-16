@@ -1,3 +1,2 @@
-export function findJudge(N: number, trust: number[][]): number {
-
-};
+export function findJudge(N: number, trust: number[][]): number {}
+;

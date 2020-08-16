@@ -1,3 +1,2 @@
-export function getNoZeroIntegers(n: number): number[] {
-
-};
+export function getNoZeroIntegers(n: number): number[] {}
+;

@@ -1,3 +1,2 @@
-export function firstUniqChar(s: string): number {
-
-};
+export function firstUniqChar(s: string): number {}
+;

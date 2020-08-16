@@ -1,3 +1,2 @@
-export function minimumTotal(triangle: number[][]): number {
-
-};
+export function minimumTotal(triangle: number[][]): number {}
+;

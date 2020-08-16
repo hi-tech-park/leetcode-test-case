@@ -1,10 +1,7 @@
 
-import {/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor } from '../main/[83]-remove-duplicates-from-sorted-list'
+import { deleteDuplicates } from '../main/[83]-remove-duplicates-from-sorted-list'
 describe('Remove Duplicates from Sorted List', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

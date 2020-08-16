@@ -1,3 +1,2 @@
-export function customSortString(S: string, T: string): string {
-
-};
+export function customSortString(S: string, T: string): string {}
+;

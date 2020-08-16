@@ -1,3 +1,2 @@
-export function repeatedStringMatch(A: string, B: string): number {
-
-};
+export function repeatedStringMatch(A: string, B: string): number {}
+;

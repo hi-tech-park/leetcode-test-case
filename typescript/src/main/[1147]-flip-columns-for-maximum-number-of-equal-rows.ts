@@ -1,3 +1,2 @@
-export function maxEqualRowsAfterFlips(matrix: number[][]): number {
-
-};
+export function maxEqualRowsAfterFlips(matrix: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function decompressRLElist(nums: number[]): number[] {
-
-};
+export function decompressRLElist(nums: number[]): number[] {}
+;

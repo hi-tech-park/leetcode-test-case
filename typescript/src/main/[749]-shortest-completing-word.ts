@@ -1,3 +1,2 @@
-export function shortestCompletingWord(licensePlate: string, words: string[]): string {
-
-};
+export function shortestCompletingWord(licensePlate: string, words: string[]): string {}
+;

@@ -1,3 +1,2 @@
-export function threeSum(nums: number[]): number[][] {
-
-};
+export function threeSum(nums: number[]): number[][] {}
+;

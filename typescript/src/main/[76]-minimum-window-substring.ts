@@ -1,3 +1,2 @@
-export function minWindow(s: string, t: string): string {
-
-};
+export function minWindow(s: string, t: string): string {}
+;

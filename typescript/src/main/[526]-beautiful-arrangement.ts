@@ -1,3 +1,2 @@
-export function countArrangement(N: number): number {
-
-};
+export function countArrangement(N: number): number {}
+;

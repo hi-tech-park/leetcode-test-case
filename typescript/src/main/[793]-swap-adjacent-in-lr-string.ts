@@ -1,3 +1,2 @@
-export function canTransform(start: string, end: string): boolean {
-
-};
+export function canTransform(start: string, end: string): boolean {}
+;

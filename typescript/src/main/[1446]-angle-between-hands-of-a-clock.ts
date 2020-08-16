@@ -1,3 +1,2 @@
-export function angleClock(hour: number, minutes: number): number {
-
-};
+export function angleClock(hour: number, minutes: number): number {}
+;

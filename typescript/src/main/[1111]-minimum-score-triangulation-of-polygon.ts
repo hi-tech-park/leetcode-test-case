@@ -1,3 +1,2 @@
-export function minScoreTriangulation(A: number[]): number {
-
-};
+export function minScoreTriangulation(A: number[]): number {}
+;

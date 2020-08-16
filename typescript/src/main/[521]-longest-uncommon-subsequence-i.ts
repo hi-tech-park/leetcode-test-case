@@ -1,3 +1,2 @@
-export function findLUSlength(a: string, b: string): number {
-
-};
+export function findLUSlength(a: string, b: string): number {}
+;

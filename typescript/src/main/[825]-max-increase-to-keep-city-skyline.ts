@@ -1,3 +1,2 @@
-export function maxIncreaseKeepingSkyline(grid: number[][]): number {
-
-};
+export function maxIncreaseKeepingSkyline(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function findRadius(houses: number[], heaters: number[]): number {
-
-};
+export function findRadius(houses: number[], heaters: number[]): number {}
+;

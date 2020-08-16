@@ -1,3 +1,2 @@
-export function numEnclaves(A: number[][]): number {
-
-};
+export function numEnclaves(A: number[][]): number {}
+;

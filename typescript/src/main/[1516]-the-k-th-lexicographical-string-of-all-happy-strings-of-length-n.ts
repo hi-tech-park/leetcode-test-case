@@ -1,3 +1,2 @@
-export function getHappyString(n: number, k: number): string {
-
-};
+export function getHappyString(n: number, k: number): string {}
+;

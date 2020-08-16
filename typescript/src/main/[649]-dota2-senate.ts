@@ -1,3 +1,2 @@
-export function predictPartyVictory(senate: string): string {
-
-};
+export function predictPartyVictory(senate: string): string {}
+;

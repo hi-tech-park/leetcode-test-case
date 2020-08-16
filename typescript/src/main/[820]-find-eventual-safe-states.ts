@@ -1,3 +1,2 @@
-export function eventualSafeNodes(graph: number[][]): number[] {
-
-};
+export function eventualSafeNodes(graph: number[][]): number[] {}
+;

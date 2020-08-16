@@ -1,3 +1,2 @@
-export function maximumProduct(nums: number[]): number {
-
-};
+export function maximumProduct(nums: number[]): number {}
+;

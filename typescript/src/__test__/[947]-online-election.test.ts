@@ -1,6 +1,7 @@
 
-import {class TopVotedCandidate {
-    constructor } from '../main/[947]-online-election'
+import { TopVotedCandidate } from '../main/[947]-online-election'
 describe('Online Election', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

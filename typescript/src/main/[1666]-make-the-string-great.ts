@@ -1,3 +1,2 @@
-export function makeGood(s: string): string {
-
-};
+export function makeGood(s: string): string {}
+;

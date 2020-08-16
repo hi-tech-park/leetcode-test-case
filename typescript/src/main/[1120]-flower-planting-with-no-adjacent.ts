@@ -1,3 +1,2 @@
-export function gardenNoAdj(N: number, paths: number[][]): number[] {
-
-};
+export function gardenNoAdj(N: number, paths: number[][]): number[] {}
+;

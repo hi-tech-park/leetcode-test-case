@@ -1,3 +1,2 @@
-export function trailingZeroes(n: number): number {
-
-};
+export function trailingZeroes(n: number): number {}
+;

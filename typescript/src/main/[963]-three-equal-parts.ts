@@ -1,3 +1,2 @@
-export function threeEqualParts(A: number[]): number[] {
-
-};
+export function threeEqualParts(A: number[]): number[] {}
+;

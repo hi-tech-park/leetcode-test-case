@@ -1,3 +1,2 @@
-export function minCost(n: number, cuts: number[]): number {
-
-};
+export function minCost(n: number, cuts: number[]): number {}
+;

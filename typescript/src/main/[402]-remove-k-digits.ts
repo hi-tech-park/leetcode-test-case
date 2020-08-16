@@ -1,3 +1,2 @@
-export function removeKdigits(num: string, k: number): string {
-
-};
+export function removeKdigits(num: string, k: number): string {}
+;

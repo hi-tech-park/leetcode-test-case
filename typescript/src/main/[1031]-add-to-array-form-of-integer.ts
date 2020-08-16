@@ -1,3 +1,2 @@
-export function addToArrayForm(A: number[], K: number): number[] {
-
-};
+export function addToArrayForm(A: number[], K: number): number[] {}
+;

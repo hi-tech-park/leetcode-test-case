@@ -1,3 +1,2 @@
-export function orangesRotting(grid: number[][]): number {
-
-};
+export function orangesRotting(grid: number[][]): number {}
+;

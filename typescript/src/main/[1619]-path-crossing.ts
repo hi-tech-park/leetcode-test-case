@@ -1,3 +1,2 @@
-export function isPathCrossing(path: string): boolean {
-
-};
+export function isPathCrossing(path: string): boolean {}
+;

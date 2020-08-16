@@ -1,3 +1,2 @@
-export function deleteAndEarn(nums: number[]): number {
-
-};
+export function deleteAndEarn(nums: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function makesquare(nums: number[]): boolean {
-
-};
+export function makesquare(nums: number[]): boolean {}
+;

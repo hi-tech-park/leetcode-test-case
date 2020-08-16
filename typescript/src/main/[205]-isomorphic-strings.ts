@@ -1,3 +1,2 @@
-export function isIsomorphic(s: string, t: string): boolean {
-
-};
+export function isIsomorphic(s: string, t: string): boolean {}
+;

@@ -1,3 +1,2 @@
-export function countLargestGroup(n: number): number {
-
-};
+export function countLargestGroup(n: number): number {}
+;

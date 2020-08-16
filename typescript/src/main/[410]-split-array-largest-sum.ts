@@ -1,3 +1,2 @@
-export function splitArray(nums: number[], m: number): number {
-
-};
+export function splitArray(nums: number[], m: number): number {}
+;

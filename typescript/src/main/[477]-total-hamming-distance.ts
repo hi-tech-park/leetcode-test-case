@@ -1,3 +1,2 @@
-export function totalHammingDistance(nums: number[]): number {
-
-};
+export function totalHammingDistance(nums: number[]): number {}
+;

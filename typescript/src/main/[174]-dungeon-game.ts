@@ -1,3 +1,2 @@
-export function calculateMinimumHP(dungeon: number[][]): number {
-
-};
+export function calculateMinimumHP(dungeon: number[][]): number {}
+;

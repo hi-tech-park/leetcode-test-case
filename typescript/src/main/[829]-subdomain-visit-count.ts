@@ -1,3 +1,2 @@
-export function subdomainVisits(cpdomains: string[]): string[] {
-
-};
+export function subdomainVisits(cpdomains: string[]): string[] {}
+;

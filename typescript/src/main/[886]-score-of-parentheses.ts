@@ -1,3 +1,2 @@
-export function scoreOfParentheses(S: string): number {
-
-};
+export function scoreOfParentheses(S: string): number {}
+;

@@ -1,3 +1,2 @@
-export function countOfAtoms(formula: string): string {
-
-};
+export function countOfAtoms(formula: string): string {}
+;

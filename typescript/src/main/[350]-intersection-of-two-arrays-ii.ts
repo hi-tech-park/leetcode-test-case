@@ -1,3 +1,2 @@
-export function intersect(nums1: number[], nums2: number[]): number[] {
-
-};
+export function intersect(nums1: number[], nums2: number[]): number[] {}
+;

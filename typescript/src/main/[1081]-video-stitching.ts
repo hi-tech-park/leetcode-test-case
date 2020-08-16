@@ -1,3 +1,2 @@
-export function videoStitching(clips: number[][], T: number): number {
-
-};
+export function videoStitching(clips: number[][], T: number): number {}
+;

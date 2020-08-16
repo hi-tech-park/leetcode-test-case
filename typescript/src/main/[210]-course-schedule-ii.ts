@@ -1,3 +1,2 @@
-export function findOrder(numCourses: number, prerequisites: number[][]): number[] {
-
-};
+export function findOrder(numCourses: number, prerequisites: number[][]): number[] {}
+;

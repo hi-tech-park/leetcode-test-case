@@ -1,3 +1,2 @@
-export function maxFreq(s: string, maxLetters: number, minSize: number, maxSize: number): number {
-
-};
+export function maxFreq(s: string, maxLetters: number, minSize: number, maxSize: number): number {}
+;

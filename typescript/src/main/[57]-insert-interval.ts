@@ -1,3 +1,2 @@
-export function insert(intervals: number[][], newInterval: number[]): number[][] {
-
-};
+export function insert(intervals: number[][], newInterval: number[]): number[][] {}
+;

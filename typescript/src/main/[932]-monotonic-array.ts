@@ -1,3 +1,2 @@
-export function isMonotonic(A: number[]): boolean {
-
-};
+export function isMonotonic(A: number[]): boolean {}
+;

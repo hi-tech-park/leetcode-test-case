@@ -1,11 +1,7 @@
 
-import {/**
- * Definition for a binary tree node.
- * class TreeNode {
- *     val: number
- *     left: TreeNode | null
- *     right: TreeNode | null
- *     constructor } from '../main/[113]-path-sum-ii'
+import { pathSum } from '../main/[113]-path-sum-ii'
 describe('Path Sum II', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

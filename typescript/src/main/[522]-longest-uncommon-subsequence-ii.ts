@@ -1,3 +1,2 @@
-export function findLUSlength(strs: string[]): number {
-
-};
+export function findLUSlength(strs: string[]): number {}
+;

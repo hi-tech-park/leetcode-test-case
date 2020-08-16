@@ -1,3 +1,2 @@
-export function integerBreak(n: number): number {
-
-};
+export function integerBreak(n: number): number {}
+;

@@ -1,3 +1,2 @@
-export function reverseWords(s: string): string {
-
-};
+export function reverseWords(s: string): string {}
+;

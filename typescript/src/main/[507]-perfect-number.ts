@@ -1,3 +1,2 @@
-export function checkPerfectNumber(num: number): boolean {
-
-};
+export function checkPerfectNumber(num: number): boolean {}
+;

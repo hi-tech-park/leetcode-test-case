@@ -1,3 +1,2 @@
-export function clumsy(N: number): number {
-
-};
+export function clumsy(N: number): number {}
+;

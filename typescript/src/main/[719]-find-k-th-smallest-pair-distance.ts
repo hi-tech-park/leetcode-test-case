@@ -1,3 +1,2 @@
-export function smallestDistancePair(nums: number[], k: number): number {
-
-};
+export function smallestDistancePair(nums: number[], k: number): number {}
+;

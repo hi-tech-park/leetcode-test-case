@@ -1,3 +1,2 @@
-export function findUnsortedSubarray(nums: number[]): number {
-
-};
+export function findUnsortedSubarray(nums: number[]): number {}
+;

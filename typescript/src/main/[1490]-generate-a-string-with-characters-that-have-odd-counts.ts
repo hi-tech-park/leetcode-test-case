@@ -1,3 +1,2 @@
-export function generateTheString(n: number): string {
-
-};
+export function generateTheString(n: number): string {}
+;

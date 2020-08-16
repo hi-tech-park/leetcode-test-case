@@ -1,3 +1,2 @@
-export function numSubmatrixSumTarget(matrix: number[][], target: number): number {
-
-};
+export function numSubmatrixSumTarget(matrix: number[][], target: number): number {}
+;

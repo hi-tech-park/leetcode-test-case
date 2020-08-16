@@ -1,3 +1,2 @@
-export function generateMatrix(n: number): number[][] {
-
-};
+export function generateMatrix(n: number): number[][] {}
+;

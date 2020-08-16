@@ -1,3 +1,2 @@
-export function snakesAndLadders(board: number[][]): number {
-
-};
+export function snakesAndLadders(board: number[][]): number {}
+;

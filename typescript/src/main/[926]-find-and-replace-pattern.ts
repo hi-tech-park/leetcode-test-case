@@ -1,3 +1,2 @@
-export function findAndReplacePattern(words: string[], pattern: string): string[] {
-
-};
+export function findAndReplacePattern(words: string[], pattern: string): string[] {}
+;

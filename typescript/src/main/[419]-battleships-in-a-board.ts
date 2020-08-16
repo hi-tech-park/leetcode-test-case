@@ -1,3 +1,2 @@
-export function countBattleships(board: string[][]): number {
-
-};
+export function countBattleships(board: string[][]): number {}
+;

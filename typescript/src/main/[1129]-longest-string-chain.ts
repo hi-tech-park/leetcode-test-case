@@ -1,3 +1,2 @@
-export function longestStrChain(words: string[]): number {
-
-};
+export function longestStrChain(words: string[]): number {}
+;

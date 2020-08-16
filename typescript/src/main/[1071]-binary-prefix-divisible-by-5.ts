@@ -1,3 +1,2 @@
-export function prefixesDivBy5(A: number[]): boolean[] {
-
-};
+export function prefixesDivBy5(A: number[]): boolean[] {}
+;

@@ -1,3 +1,2 @@
-export function isPowerOfFour(num: number): boolean {
-
-};
+export function isPowerOfFour(num: number): boolean {}
+;

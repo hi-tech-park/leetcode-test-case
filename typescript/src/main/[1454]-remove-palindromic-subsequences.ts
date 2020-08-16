@@ -1,3 +1,2 @@
-export function removePalindromeSub(s: string): number {
-
-};
+export function removePalindromeSub(s: string): number {}
+;

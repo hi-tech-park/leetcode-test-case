@@ -1,3 +1,2 @@
-export function largestComponentSize(A: number[]): number {
-
-};
+export function largestComponentSize(A: number[]): number {}
+;

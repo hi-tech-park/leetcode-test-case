@@ -1,3 +1,2 @@
-export function minSwaps(grid: number[][]): number {
-
-};
+export function minSwaps(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function numFriendRequests(ages: number[]): number {
-
-};
+export function numFriendRequests(ages: number[]): number {}
+;

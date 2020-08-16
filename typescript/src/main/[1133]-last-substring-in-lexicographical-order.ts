@@ -1,3 +1,2 @@
-export function lastSubstring(s: string): string {
-
-};
+export function lastSubstring(s: string): string {}
+;

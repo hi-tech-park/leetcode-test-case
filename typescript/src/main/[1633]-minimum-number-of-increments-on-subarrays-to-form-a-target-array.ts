@@ -1,3 +1,2 @@
-export function minNumberOperations(target: number[]): number {
-
-};
+export function minNumberOperations(target: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function reorderedPowerOf2(N: number): boolean {
-
-};
+export function reorderedPowerOf2(N: number): boolean {}
+;

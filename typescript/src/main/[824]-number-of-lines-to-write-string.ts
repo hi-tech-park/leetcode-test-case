@@ -1,3 +1,2 @@
-export function numberOfLines(widths: number[], S: string): number[] {
-
-};
+export function numberOfLines(widths: number[], S: string): number[] {}
+;

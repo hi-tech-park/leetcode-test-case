@@ -1,3 +1,2 @@
-export function shiftingLetters(S: string, shifts: number[]): string {
-
-};
+export function shiftingLetters(S: string, shifts: number[]): string {}
+;

@@ -1,3 +1,2 @@
-export function findPeakElement(nums: number[]): number {
-
-};
+export function findPeakElement(nums: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function isIdealPermutation(A: number[]): boolean {
-
-};
+export function isIdealPermutation(A: number[]): boolean {}
+;

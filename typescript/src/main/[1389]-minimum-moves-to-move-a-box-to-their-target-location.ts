@@ -1,3 +1,2 @@
-export function minPushBox(grid: string[][]): number {
-
-};
+export function minPushBox(grid: string[][]): number {}
+;

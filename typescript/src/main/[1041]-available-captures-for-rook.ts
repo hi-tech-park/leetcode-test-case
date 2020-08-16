@@ -1,3 +1,2 @@
-export function numRookCaptures(board: string[][]): number {
-
-};
+export function numRookCaptures(board: string[][]): number {}
+;

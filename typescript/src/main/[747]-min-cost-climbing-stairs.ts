@@ -1,3 +1,2 @@
-export function minCostClimbingStairs(cost: number[]): number {
-
-};
+export function minCostClimbingStairs(cost: number[]): number {}
+;

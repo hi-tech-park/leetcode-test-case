@@ -1,3 +1,2 @@
-export function sortedSquares(A: number[]): number[] {
-
-};
+export function sortedSquares(A: number[]): number[] {}
+;

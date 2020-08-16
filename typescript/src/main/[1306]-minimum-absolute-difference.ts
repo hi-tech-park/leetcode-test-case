@@ -1,3 +1,2 @@
-export function minimumAbsDifference(arr: number[]): number[][] {
-
-};
+export function minimumAbsDifference(arr: number[]): number[][] {}
+;

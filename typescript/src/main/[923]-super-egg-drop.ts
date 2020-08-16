@@ -1,3 +1,2 @@
-export function superEggDrop(K: number, N: number): number {
-
-};
+export function superEggDrop(K: number, N: number): number {}
+;

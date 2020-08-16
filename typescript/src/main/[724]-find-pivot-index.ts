@@ -1,3 +1,2 @@
-export function pivotIndex(nums: number[]): number {
-
-};
+export function pivotIndex(nums: number[]): number {}
+;

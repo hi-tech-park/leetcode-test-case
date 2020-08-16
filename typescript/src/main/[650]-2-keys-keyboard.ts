@@ -1,3 +1,2 @@
-export function minSteps(n: number): number {
-
-};
+export function minSteps(n: number): number {}
+;

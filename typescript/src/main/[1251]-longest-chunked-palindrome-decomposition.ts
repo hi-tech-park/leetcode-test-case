@@ -1,3 +1,2 @@
-export function longestDecomposition(text: string): number {
-
-};
+export function longestDecomposition(text: string): number {}
+;

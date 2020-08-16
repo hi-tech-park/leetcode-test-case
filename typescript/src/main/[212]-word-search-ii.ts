@@ -1,3 +1,2 @@
-export function findWords(board: string[][], words: string[]): string[] {
-
-};
+export function findWords(board: string[][], words: string[]): string[] {}
+;

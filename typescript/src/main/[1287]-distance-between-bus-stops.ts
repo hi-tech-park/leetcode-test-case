@@ -1,3 +1,2 @@
-export function distanceBetweenBusStops(distance: number[], start: number, destination: number): number {
-
-};
+export function distanceBetweenBusStops(distance: number[], start: number, destination: number): number {}
+;

@@ -1,3 +1,2 @@
-export function decodeAtIndex(S: string, K: number): string {
-
-};
+export function decodeAtIndex(S: string, K: number): string {}
+;

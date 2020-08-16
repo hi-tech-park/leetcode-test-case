@@ -1,3 +1,2 @@
-export function grayCode(n: number): number[] {
-
-};
+export function grayCode(n: number): number[] {}
+;

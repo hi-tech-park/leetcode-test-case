@@ -1,3 +1,2 @@
-export function isBoomerang(points: number[][]): boolean {
-
-};
+export function isBoomerang(points: number[][]): boolean {}
+;

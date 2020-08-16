@@ -1,3 +1,2 @@
-export function longestCommonSubsequence(text1: string, text2: string): number {
-
-};
+export function longestCommonSubsequence(text1: string, text2: string): number {}
+;

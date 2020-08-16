@@ -1,3 +1,2 @@
-export function isPrefixOfWord(sentence: string, searchWord: string): number {
-
-};
+export function isPrefixOfWord(sentence: string, searchWord: string): number {}
+;

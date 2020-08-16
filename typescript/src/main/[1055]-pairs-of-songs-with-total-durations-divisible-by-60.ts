@@ -1,3 +1,2 @@
-export function numPairsDivisibleBy60(time: number[]): number {
-
-};
+export function numPairsDivisibleBy60(time: number[]): number {}
+;

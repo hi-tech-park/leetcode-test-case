@@ -1,3 +1,2 @@
-export function getMaximumGold(grid: number[][]): number {
-
-};
+export function getMaximumGold(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function carPooling(trips: number[][], capacity: number): boolean {
-
-};
+export function carPooling(trips: number[][], capacity: number): boolean {}
+;

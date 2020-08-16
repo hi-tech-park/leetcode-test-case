@@ -1,3 +1,2 @@
-export function sumZero(n: number): number[] {
-
-};
+export function sumZero(n: number): number[] {}
+;

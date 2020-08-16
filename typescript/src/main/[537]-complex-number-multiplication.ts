@@ -1,3 +1,2 @@
-export function complexNumberMultiply(a: string, b: string): string {
-
-};
+export function complexNumberMultiply(a: string, b: string): string {}
+;

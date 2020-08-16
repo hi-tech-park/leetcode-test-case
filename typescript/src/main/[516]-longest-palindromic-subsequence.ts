@@ -1,3 +1,2 @@
-export function longestPalindromeSubseq(s: string): number {
-
-};
+export function longestPalindromeSubseq(s: string): number {}
+;

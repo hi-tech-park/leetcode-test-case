@@ -1,3 +1,2 @@
-export function getHint(secret: string, guess: string): string {
-
-};
+export function getHint(secret: string, guess: string): string {}
+;

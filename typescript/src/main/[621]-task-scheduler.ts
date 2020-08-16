@@ -1,3 +1,2 @@
-export function leastInterval(tasks: string[], n: number): number {
-
-};
+export function leastInterval(tasks: string[], n: number): number {}
+;

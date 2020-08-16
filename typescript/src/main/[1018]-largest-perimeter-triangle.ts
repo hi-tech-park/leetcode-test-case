@@ -1,3 +1,2 @@
-export function largestPerimeter(A: number[]): number {
-
-};
+export function largestPerimeter(A: number[]): number {}
+;

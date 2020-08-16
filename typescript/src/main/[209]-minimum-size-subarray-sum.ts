@@ -1,3 +1,2 @@
-export function minSubArrayLen(s: number, nums: number[]): number {
-
-};
+export function minSubArrayLen(s: number, nums: number[]): number {}
+;

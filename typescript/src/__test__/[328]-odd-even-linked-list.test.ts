@@ -1,10 +1,7 @@
 
-import {/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor } from '../main/[328]-odd-even-linked-list'
+import { oddEvenList } from '../main/[328]-odd-even-linked-list'
 describe('Odd Even Linked List', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

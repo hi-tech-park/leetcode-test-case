@@ -1,3 +1,2 @@
-export function maximalRectangle(matrix: string[][]): number {
-
-};
+export function maximalRectangle(matrix: string[][]): number {}
+;

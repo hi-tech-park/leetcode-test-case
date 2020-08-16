@@ -1,3 +1,2 @@
-export function pathInZigZagTree(label: number): number[] {
-
-};
+export function pathInZigZagTree(label: number): number[] {}
+;

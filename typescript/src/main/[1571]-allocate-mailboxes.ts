@@ -1,3 +1,2 @@
-export function minDistance(houses: number[], k: number): number {
-
-};
+export function minDistance(houses: number[], k: number): number {}
+;

@@ -1,3 +1,2 @@
-export function findMinMoves(machines: number[]): number {
-
-};
+export function findMinMoves(machines: number[]): number {}
+;

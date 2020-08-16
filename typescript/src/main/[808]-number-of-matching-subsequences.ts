@@ -1,3 +1,2 @@
-export function numMatchingSubseq(S: string, words: string[]): number {
-
-};
+export function numMatchingSubseq(S: string, words: string[]): number {}
+;

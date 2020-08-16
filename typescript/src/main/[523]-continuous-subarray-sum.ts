@@ -1,3 +1,2 @@
-export function checkSubarraySum(nums: number[], k: number): boolean {
-
-};
+export function checkSubarraySum(nums: number[], k: number): boolean {}
+;

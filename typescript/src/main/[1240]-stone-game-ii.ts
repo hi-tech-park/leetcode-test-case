@@ -1,3 +1,2 @@
-export function stoneGameII(piles: number[]): number {
-
-};
+export function stoneGameII(piles: number[]): number {}
+;

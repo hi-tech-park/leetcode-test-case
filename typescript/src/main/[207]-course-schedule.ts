@@ -1,3 +1,2 @@
-export function canFinish(numCourses: number, prerequisites: number[][]): boolean {
-
-};
+export function canFinish(numCourses: number, prerequisites: number[][]): boolean {}
+;

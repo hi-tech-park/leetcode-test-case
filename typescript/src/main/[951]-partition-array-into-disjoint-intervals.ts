@@ -1,3 +1,2 @@
-export function partitionDisjoint(A: number[]): number {
-
-};
+export function partitionDisjoint(A: number[]): number {}
+;

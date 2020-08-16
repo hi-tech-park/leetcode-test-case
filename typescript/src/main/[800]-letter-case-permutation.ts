@@ -1,3 +1,2 @@
-export function letterCasePermutation(S: string): string[] {
-
-};
+export function letterCasePermutation(S: string): string[] {}
+;

@@ -1,3 +1,2 @@
-export function maxSizeSlices(slices: number[]): number {
-
-};
+export function maxSizeSlices(slices: number[]): number {}
+;

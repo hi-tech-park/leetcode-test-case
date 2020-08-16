@@ -1,3 +1,2 @@
-export function fullJustify(words: string[], maxWidth: number): string[] {
-
-};
+export function fullJustify(words: string[], maxWidth: number): string[] {}
+;

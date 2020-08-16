@@ -1,3 +1,2 @@
-export function minTaps(n: number, ranges: number[]): number {
-
-};
+export function minTaps(n: number, ranges: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function maxSumDivThree(nums: number[]): number {
-
-};
+export function maxSumDivThree(nums: number[]): number {}
+;

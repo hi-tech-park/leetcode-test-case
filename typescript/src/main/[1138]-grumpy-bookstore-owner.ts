@@ -1,3 +1,2 @@
-export function maxSatisfied(customers: number[], grumpy: number[], X: number): number {
-
-};
+export function maxSatisfied(customers: number[], grumpy: number[], X: number): number {}
+;

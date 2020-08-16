@@ -1,3 +1,2 @@
-export function findClosestElements(arr: number[], k: number, x: number): number[] {
-
-};
+export function findClosestElements(arr: number[], k: number, x: number): number[] {}
+;

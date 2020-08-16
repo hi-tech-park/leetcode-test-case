@@ -1,3 +1,2 @@
-export function lastRemaining(n: number): number {
-
-};
+export function lastRemaining(n: number): number {}
+;

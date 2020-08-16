@@ -1,3 +1,2 @@
-export function baseNeg2(N: number): string {
-
-};
+export function baseNeg2(N: number): string {}
+;

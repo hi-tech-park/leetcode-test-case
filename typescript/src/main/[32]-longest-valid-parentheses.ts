@@ -1,3 +1,2 @@
-export function longestValidParentheses(s: string): number {
-
-};
+export function longestValidParentheses(s: string): number {}
+;

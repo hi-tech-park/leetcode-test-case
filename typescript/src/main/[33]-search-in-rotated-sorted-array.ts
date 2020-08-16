@@ -1,3 +1,2 @@
-export function search(nums: number[], target: number): number {
-
-};
+export function search(nums: number[], target: number): number {}
+;

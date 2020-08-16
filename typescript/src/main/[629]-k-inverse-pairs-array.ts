@@ -1,3 +1,2 @@
-export function kInversePairs(n: number, k: number): number {
-
-};
+export function kInversePairs(n: number, k: number): number {}
+;

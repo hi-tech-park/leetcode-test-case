@@ -1,3 +1,2 @@
-export function toHex(num: number): string {
-
-};
+export function toHex(num: number): string {}
+;

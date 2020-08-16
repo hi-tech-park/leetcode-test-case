@@ -1,3 +1,2 @@
-export function smallestStringWithSwaps(s: string, pairs: number[][]): string {
-
-};
+export function smallestStringWithSwaps(s: string, pairs: number[][]): string {}
+;

@@ -1,3 +1,2 @@
-export function shuffle(nums: number[], n: number): number[] {
-
-};
+export function shuffle(nums: number[], n: number): number[] {}
+;

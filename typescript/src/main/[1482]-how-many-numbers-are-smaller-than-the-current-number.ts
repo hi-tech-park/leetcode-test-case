@@ -1,3 +1,2 @@
-export function smallerNumbersThanCurrent(nums: number[]): number[] {
-
-};
+export function smallerNumbersThanCurrent(nums: number[]): number[] {}
+;

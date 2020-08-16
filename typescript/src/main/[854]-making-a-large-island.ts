@@ -1,3 +1,2 @@
-export function largestIsland(grid: number[][]): number {
-
-};
+export function largestIsland(grid: number[][]): number {}
+;

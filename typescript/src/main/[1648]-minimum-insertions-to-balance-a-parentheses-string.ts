@@ -1,3 +1,2 @@
-export function minInsertions(s: string): number {
-
-};
+export function minInsertions(s: string): number {}
+;

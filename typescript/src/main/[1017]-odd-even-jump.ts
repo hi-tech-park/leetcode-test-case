@@ -1,3 +1,2 @@
-export function oddEvenJumps(A: number[]): number {
-
-};
+export function oddEvenJumps(A: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function decodeString(s: string): string {
-
-};
+export function decodeString(s: string): string {}
+;

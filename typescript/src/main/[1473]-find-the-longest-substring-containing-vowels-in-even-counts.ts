@@ -1,3 +1,2 @@
-export function findTheLongestSubstring(s: string): number {
-
-};
+export function findTheLongestSubstring(s: string): number {}
+;

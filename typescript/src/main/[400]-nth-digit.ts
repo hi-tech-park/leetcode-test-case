@@ -1,3 +1,2 @@
-export function findNthDigit(n: number): number {
-
-};
+export function findNthDigit(n: number): number {}
+;

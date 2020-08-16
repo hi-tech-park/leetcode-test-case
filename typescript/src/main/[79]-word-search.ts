@@ -1,3 +1,2 @@
-export function exist(board: string[][], word: string): boolean {
-
-};
+export function exist(board: string[][], word: string): boolean {}
+;

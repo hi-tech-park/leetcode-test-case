@@ -1,3 +1,2 @@
-export function asteroidCollision(asteroids: number[]): number[] {
-
-};
+export function asteroidCollision(asteroids: number[]): number[] {}
+;

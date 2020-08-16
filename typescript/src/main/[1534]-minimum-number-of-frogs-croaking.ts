@@ -1,3 +1,2 @@
-export function minNumberOfFrogs(croakOfFrogs: string): number {
-
-};
+export function minNumberOfFrogs(croakOfFrogs: string): number {}
+;

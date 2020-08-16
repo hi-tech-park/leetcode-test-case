@@ -1,3 +1,2 @@
-export function maxCount(m: number, n: number, ops: number[][]): number {
-
-};
+export function maxCount(m: number, n: number, ops: number[][]): number {}
+;

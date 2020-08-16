@@ -1,3 +1,2 @@
-export function countAndSay(n: number): string {
-
-};
+export function countAndSay(n: number): string {}
+;

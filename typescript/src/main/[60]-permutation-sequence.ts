@@ -1,3 +1,2 @@
-export function getPermutation(n: number, k: number): string {
-
-};
+export function getPermutation(n: number, k: number): string {}
+;

@@ -1,3 +1,2 @@
-export function findMinArrowShots(points: number[][]): number {
-
-};
+export function findMinArrowShots(points: number[][]): number {}
+;

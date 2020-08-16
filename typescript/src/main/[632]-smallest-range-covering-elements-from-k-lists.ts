@@ -1,3 +1,2 @@
-export function smallestRange(nums: number[][]): number[] {
-
-};
+export function smallestRange(nums: number[][]): number[] {}
+;

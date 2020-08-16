@@ -1,3 +1,2 @@
-export function repeatedSubstringPattern(s: string): boolean {
-
-};
+export function repeatedSubstringPattern(s: string): boolean {}
+;

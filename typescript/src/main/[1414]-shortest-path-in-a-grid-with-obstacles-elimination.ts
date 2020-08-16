@@ -1,3 +1,2 @@
-export function shortestPath(grid: number[][], k: number): number {
-
-};
+export function shortestPath(grid: number[][], k: number): number {}
+;

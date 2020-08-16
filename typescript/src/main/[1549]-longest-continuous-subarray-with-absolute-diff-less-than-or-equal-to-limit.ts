@@ -1,3 +1,2 @@
-export function longestSubarray(nums: number[], limit: number): number {
-
-};
+export function longestSubarray(nums: number[], limit: number): number {}
+;

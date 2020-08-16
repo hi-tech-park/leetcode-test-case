@@ -1,3 +1,2 @@
-export function findCircleNum(M: number[][]): number {
-
-};
+export function findCircleNum(M: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function permuteUnique(nums: number[]): number[][] {
-
-};
+export function permuteUnique(nums: number[]): number[][] {}
+;

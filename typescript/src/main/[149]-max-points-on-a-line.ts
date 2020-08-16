@@ -1,3 +1,2 @@
-export function maxPoints(points: number[][]): number {
-
-};
+export function maxPoints(points: number[][]): number {}
+;

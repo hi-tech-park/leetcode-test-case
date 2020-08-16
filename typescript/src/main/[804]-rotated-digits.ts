@@ -1,3 +1,2 @@
-export function rotatedDigits(N: number): number {
-
-};
+export function rotatedDigits(N: number): number {}
+;

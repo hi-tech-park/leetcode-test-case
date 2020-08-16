@@ -1,3 +1,2 @@
-export function sortArrayByParity(A: number[]): number[] {
-
-};
+export function sortArrayByParity(A: number[]): number[] {}
+;

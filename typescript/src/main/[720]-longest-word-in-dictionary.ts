@@ -1,3 +1,2 @@
-export function longestWord(words: string[]): string {
-
-};
+export function longestWord(words: string[]): string {}
+;

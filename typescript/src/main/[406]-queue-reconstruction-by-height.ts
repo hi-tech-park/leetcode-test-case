@@ -1,3 +1,2 @@
-export function reconstructQueue(people: number[][]): number[][] {
-
-};
+export function reconstructQueue(people: number[][]): number[][] {}
+;

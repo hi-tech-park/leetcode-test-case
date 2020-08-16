@@ -1,3 +1,2 @@
-export function findNumberOfLIS(nums: number[]): number {
-
-};
+export function findNumberOfLIS(nums: number[]): number {}
+;

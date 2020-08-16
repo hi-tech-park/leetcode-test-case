@@ -1,3 +1,2 @@
-export function strongPasswordChecker(s: string): number {
-
-};
+export function strongPasswordChecker(s: string): number {}
+;

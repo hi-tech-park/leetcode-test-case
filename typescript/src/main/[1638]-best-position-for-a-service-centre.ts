@@ -1,3 +1,2 @@
-export function getMinDistSum(positions: number[][]): number {
-
-};
+export function getMinDistSum(positions: number[][]): number {}
+;

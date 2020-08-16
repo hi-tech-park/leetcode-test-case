@@ -1,3 +1,2 @@
-export function findLucky(arr: number[]): number {
-
-};
+export function findLucky(arr: number[]): number {}
+;

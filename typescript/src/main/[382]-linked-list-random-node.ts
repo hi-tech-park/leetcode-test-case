@@ -1,27 +1,7 @@
-export /**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor(val?: number, next?: ListNode | null) {
- *         this.val = (val===undefined ? 0 : val)
- *         this.next = (next===undefined ? null : next)
- *     }
- * }
- */
+import { ListNode } from './[0]-list-node';
+export class Solution {
+  constructor(head: ListNode | null) {}
 
-class Solution {
-    constructor(head: ListNode | null) {
+  getRandom(): number {}
 
-    }
-
-    getRandom(): number {
-
-    }
 }
-
-/**
- * Your Solution object will be instantiated and called as such:
- * var obj = new Solution(head)
- * var param_1 = obj.getRandom()
- */

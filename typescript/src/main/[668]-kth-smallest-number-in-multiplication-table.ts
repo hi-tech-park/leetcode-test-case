@@ -1,3 +1,2 @@
-export function findKthNumber(m: number, n: number, k: number): number {
-
-};
+export function findKthNumber(m: number, n: number, k: number): number {}
+;

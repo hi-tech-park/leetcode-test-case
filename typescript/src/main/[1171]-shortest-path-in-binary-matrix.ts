@@ -1,3 +1,2 @@
-export function shortestPathBinaryMatrix(grid: number[][]): number {
-
-};
+export function shortestPathBinaryMatrix(grid: number[][]): number {}
+;

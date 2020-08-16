@@ -1,3 +1,2 @@
-export function numWays(steps: number, arrLen: number): number {
-
-};
+export function numWays(steps: number, arrLen: number): number {}
+;

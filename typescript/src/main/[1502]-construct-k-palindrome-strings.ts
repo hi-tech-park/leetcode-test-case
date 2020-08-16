@@ -1,3 +1,2 @@
-export function canConstruct(s: string, k: number): boolean {
-
-};
+export function canConstruct(s: string, k: number): boolean {}
+;

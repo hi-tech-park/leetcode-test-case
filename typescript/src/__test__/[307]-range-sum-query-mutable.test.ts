@@ -1,6 +1,7 @@
 
-import {class NumArray {
-    constructor } from '../main/[307]-range-sum-query-mutable'
+import { NumArray } from '../main/[307]-range-sum-query-mutable'
 describe('Range Sum Query - Mutable', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

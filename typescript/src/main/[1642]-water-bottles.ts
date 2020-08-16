@@ -1,3 +1,2 @@
-export function numWaterBottles(numBottles: number, numExchange: number): number {
-
-};
+export function numWaterBottles(numBottles: number, numExchange: number): number {}
+;

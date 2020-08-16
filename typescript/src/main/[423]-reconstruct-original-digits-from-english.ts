@@ -1,3 +1,2 @@
-export function originalDigits(s: string): string {
-
-};
+export function originalDigits(s: string): string {}
+;

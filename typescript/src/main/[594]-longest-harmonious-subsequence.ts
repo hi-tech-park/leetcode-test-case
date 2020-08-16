@@ -1,3 +1,2 @@
-export function findLHS(nums: number[]): number {
-
-};
+export function findLHS(nums: number[]): number {}
+;

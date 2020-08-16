@@ -1,3 +1,2 @@
-export function find132pattern(nums: number[]): boolean {
-
-};
+export function find132pattern(nums: number[]): boolean {}
+;

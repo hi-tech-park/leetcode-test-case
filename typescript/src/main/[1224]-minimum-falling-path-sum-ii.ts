@@ -1,3 +1,2 @@
-export function minFallingPathSum(arr: number[][]): number {
-
-};
+export function minFallingPathSum(arr: number[][]): number {}
+;

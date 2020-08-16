@@ -1,3 +1,2 @@
-export function longestSubstring(s: string, k: number): number {
-
-};
+export function longestSubstring(s: string, k: number): number {}
+;

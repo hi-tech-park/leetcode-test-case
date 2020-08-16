@@ -1,3 +1,2 @@
-export function longestPalindrome(s: string): string {
-
-};
+export function longestPalindrome(s: string): string {}
+;

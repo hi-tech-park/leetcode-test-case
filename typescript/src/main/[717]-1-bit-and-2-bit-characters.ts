@@ -1,3 +1,2 @@
-export function isOneBitCharacter(bits: number[]): boolean {
-
-};
+export function isOneBitCharacter(bits: number[]): boolean {}
+;

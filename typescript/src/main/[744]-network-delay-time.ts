@@ -1,3 +1,2 @@
-export function networkDelayTime(times: number[][], N: number, K: number): number {
-
-};
+export function networkDelayTime(times: number[][], N: number, K: number): number {}
+;

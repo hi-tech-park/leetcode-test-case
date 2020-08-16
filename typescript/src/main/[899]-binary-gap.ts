@@ -1,3 +1,2 @@
-export function binaryGap(N: number): number {
-
-};
+export function binaryGap(N: number): number {}
+;

@@ -1,3 +1,2 @@
-export function makeConnected(n: number, connections: number[][]): number {
-
-};
+export function makeConnected(n: number, connections: number[][]): number {}
+;

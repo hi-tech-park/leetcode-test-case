@@ -1,6 +1,2 @@
-export /**
- Do not return anything, modify board in-place instead.
- */
-function gameOfLife(board: number[][]): void {
-
-};
+export function gameOfLife(board: number[][]): void {}
+;

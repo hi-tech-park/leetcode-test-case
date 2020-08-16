@@ -1,3 +1,2 @@
-export function soupServings(N: number): number {
-
-};
+export function soupServings(N: number): number {}
+;

@@ -1,3 +1,2 @@
-export function projectionArea(grid: number[][]): number {
-
-};
+export function projectionArea(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function crackSafe(n: number, k: number): string {
-
-};
+export function crackSafe(n: number, k: number): string {}
+;

@@ -1,3 +1,2 @@
-export function findMaximumXOR(nums: number[]): number {
-
-};
+export function findMaximumXOR(nums: number[]): number {}
+;

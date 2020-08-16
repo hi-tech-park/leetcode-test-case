@@ -1,3 +1,2 @@
-export function smallestSufficientTeam(req_skills: string[], people: string[][]): number[] {
-
-};
+export function smallestSufficientTeam(req_skills: string[], people: string[][]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function getWinner(arr: number[], k: number): number {
-
-};
+export function getWinner(arr: number[], k: number): number {}
+;

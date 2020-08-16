@@ -1,3 +1,2 @@
-export function permute(nums: number[]): number[][] {
-
-};
+export function permute(nums: number[]): number[][] {}
+;

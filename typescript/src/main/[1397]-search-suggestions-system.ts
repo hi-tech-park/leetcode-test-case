@@ -1,3 +1,2 @@
-export function suggestedProducts(products: string[], searchWord: string): string[][] {
-
-};
+export function suggestedProducts(products: string[], searchWord: string): string[][] {}
+;

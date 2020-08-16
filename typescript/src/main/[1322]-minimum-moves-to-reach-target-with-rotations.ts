@@ -1,3 +1,2 @@
-export function minimumMoves(grid: number[][]): number {
-
-};
+export function minimumMoves(grid: number[][]): number {}
+;

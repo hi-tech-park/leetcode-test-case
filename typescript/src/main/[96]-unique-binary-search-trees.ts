@@ -1,3 +1,2 @@
-export function numTrees(n: number): number {
-
-};
+export function numTrees(n: number): number {}
+;

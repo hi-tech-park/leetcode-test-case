@@ -1,3 +1,2 @@
-export function smallestDivisor(nums: number[], threshold: number): number {
-
-};
+export function smallestDivisor(nums: number[], threshold: number): number {}
+;

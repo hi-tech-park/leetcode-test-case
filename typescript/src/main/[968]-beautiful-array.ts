@@ -1,3 +1,2 @@
-export function beautifulArray(N: number): number[] {
-
-};
+export function beautifulArray(N: number): number[] {}
+;

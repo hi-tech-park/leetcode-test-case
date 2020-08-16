@@ -1,3 +1,2 @@
-export function isHappy(n: number): boolean {
-
-};
+export function isHappy(n: number): boolean {}
+;

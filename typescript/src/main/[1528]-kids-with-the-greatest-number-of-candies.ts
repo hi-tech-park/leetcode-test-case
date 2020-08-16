@@ -1,3 +1,2 @@
-export function kidsWithCandies(candies: number[], extraCandies: number): boolean[] {
-
-};
+export function kidsWithCandies(candies: number[], extraCandies: number): boolean[] {}
+;

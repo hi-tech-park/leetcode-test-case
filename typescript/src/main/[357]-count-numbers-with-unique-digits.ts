@@ -1,3 +1,2 @@
-export function countNumbersWithUniqueDigits(n: number): number {
-
-};
+export function countNumbersWithUniqueDigits(n: number): number {}
+;

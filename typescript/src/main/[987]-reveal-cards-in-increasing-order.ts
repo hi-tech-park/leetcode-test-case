@@ -1,3 +1,2 @@
-export function deckRevealedIncreasing(deck: number[]): number[] {
-
-};
+export function deckRevealedIncreasing(deck: number[]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function validMountainArray(A: number[]): boolean {
-
-};
+export function validMountainArray(A: number[]): boolean {}
+;

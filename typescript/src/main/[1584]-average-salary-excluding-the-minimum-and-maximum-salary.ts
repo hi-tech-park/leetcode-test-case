@@ -1,3 +1,2 @@
-export function average(salary: number[]): number {
-
-};
+export function average(salary: number[]): number {}
+;

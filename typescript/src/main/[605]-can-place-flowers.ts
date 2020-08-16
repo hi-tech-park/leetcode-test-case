@@ -1,3 +1,2 @@
-export function canPlaceFlowers(flowerbed: number[], n: number): boolean {
-
-};
+export function canPlaceFlowers(flowerbed: number[], n: number): boolean {}
+;

@@ -1,3 +1,2 @@
-export function smallestRangeI(A: number[], K: number): number {
-
-};
+export function smallestRangeI(A: number[], K: number): number {}
+;

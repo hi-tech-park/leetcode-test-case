@@ -1,3 +1,2 @@
-export function maxJumps(arr: number[], d: number): number {
-
-};
+export function maxJumps(arr: number[], d: number): number {}
+;

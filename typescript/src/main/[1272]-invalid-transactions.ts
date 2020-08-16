@@ -1,3 +1,2 @@
-export function invalidTransactions(transactions: string[]): string[] {
-
-};
+export function invalidTransactions(transactions: string[]): string[] {}
+;

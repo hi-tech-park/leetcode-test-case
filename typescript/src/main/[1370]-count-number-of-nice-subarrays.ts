@@ -1,3 +1,2 @@
-export function numberOfSubarrays(nums: number[], k: number): number {
-
-};
+export function numberOfSubarrays(nums: number[], k: number): number {}
+;

@@ -1,3 +1,2 @@
-export function breakPalindrome(palindrome: string): string {
-
-};
+export function breakPalindrome(palindrome: string): string {}
+;

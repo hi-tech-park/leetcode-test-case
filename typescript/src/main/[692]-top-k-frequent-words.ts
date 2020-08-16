@@ -1,3 +1,2 @@
-export function topKFrequent(words: string[], k: number): string[] {
-
-};
+export function topKFrequent(words: string[], k: number): string[] {}
+;

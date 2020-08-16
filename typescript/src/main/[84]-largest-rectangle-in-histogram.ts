@@ -1,3 +1,2 @@
-export function largestRectangleArea(heights: number[]): number {
-
-};
+export function largestRectangleArea(heights: number[]): number {}
+;

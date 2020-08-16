@@ -1,3 +1,2 @@
-export function fractionToDecimal(numerator: number, denominator: number): string {
-
-};
+export function fractionToDecimal(numerator: number, denominator: number): string {}
+;

@@ -1,3 +1,2 @@
-export function findMinDifference(timePoints: string[]): number {
-
-};
+export function findMinDifference(timePoints: string[]): number {}
+;

@@ -1,3 +1,2 @@
-export function PredictTheWinner(nums: number[]): boolean {
-
-};
+export function PredictTheWinner(nums: number[]): boolean {}
+;

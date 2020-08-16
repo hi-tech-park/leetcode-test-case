@@ -1,3 +1,2 @@
-export function winnerSquareGame(n: number): boolean {
-
-};
+export function winnerSquareGame(n: number): boolean {}
+;

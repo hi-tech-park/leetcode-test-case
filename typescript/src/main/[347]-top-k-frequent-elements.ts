@@ -1,3 +1,2 @@
-export function topKFrequent(nums: number[], k: number): number[] {
-
-};
+export function topKFrequent(nums: number[], k: number): number[] {}
+;

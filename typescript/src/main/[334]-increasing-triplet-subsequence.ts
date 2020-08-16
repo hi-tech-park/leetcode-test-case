@@ -1,3 +1,2 @@
-export function increasingTriplet(nums: number[]): boolean {
-
-};
+export function increasingTriplet(nums: number[]): boolean {}
+;

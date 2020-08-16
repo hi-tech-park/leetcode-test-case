@@ -1,3 +1,2 @@
-export function canArrange(arr: number[], k: number): boolean {
-
-};
+export function canArrange(arr: number[], k: number): boolean {}
+;

@@ -1,3 +1,2 @@
-export function backspaceCompare(S: string, T: string): boolean {
-
-};
+export function backspaceCompare(S: string, T: string): boolean {}
+;

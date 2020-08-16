@@ -1,3 +1,2 @@
-export function minStickers(stickers: string[], target: string): number {
-
-};
+export function minStickers(stickers: string[], target: string): number {}
+;

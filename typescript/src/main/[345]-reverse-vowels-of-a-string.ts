@@ -1,3 +1,2 @@
-export function reverseVowels(s: string): string {
-
-};
+export function reverseVowels(s: string): string {}
+;

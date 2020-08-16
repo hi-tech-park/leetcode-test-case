@@ -1,3 +1,2 @@
-export function evalRPN(tokens: string[]): number {
-
-};
+export function evalRPN(tokens: string[]): number {}
+;

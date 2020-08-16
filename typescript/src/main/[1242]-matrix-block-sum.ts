@@ -1,3 +1,2 @@
-export function matrixBlockSum(mat: number[][], K: number): number[][] {
-
-};
+export function matrixBlockSum(mat: number[][], K: number): number[][] {}
+;

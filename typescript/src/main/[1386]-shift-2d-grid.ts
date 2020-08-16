@@ -1,3 +1,2 @@
-export function shiftGrid(grid: number[][], k: number): number[][] {
-
-};
+export function shiftGrid(grid: number[][], k: number): number[][] {}
+;

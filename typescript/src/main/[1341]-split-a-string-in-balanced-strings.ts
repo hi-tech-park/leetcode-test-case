@@ -1,3 +1,2 @@
-export function balancedStringSplit(s: string): number {
-
-};
+export function balancedStringSplit(s: string): number {}
+;

@@ -1,3 +1,2 @@
-export function detectCapitalUse(word: string): boolean {
-
-};
+export function detectCapitalUse(word: string): boolean {}
+;

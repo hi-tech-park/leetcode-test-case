@@ -1,3 +1,2 @@
-export function nthPersonGetsNthSeat(n: number): number {
-
-};
+export function nthPersonGetsNthSeat(n: number): number {}
+;

@@ -1,3 +1,2 @@
-export function longestWPI(hours: number[]): number {
-
-};
+export function longestWPI(hours: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function peopleIndexes(favoriteCompanies: string[][]): number[] {
-
-};
+export function peopleIndexes(favoriteCompanies: string[][]): number[] {}
+;

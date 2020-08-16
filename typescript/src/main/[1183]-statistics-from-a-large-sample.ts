@@ -1,3 +1,2 @@
-export function sampleStats(count: number[]): number[] {
-
-};
+export function sampleStats(count: number[]): number[] {}
+;

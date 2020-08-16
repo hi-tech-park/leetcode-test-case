@@ -1,3 +1,2 @@
-export function numTilePossibilities(tiles: string): number {
-
-};
+export function numTilePossibilities(tiles: string): number {}
+;

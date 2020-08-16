@@ -1,3 +1,2 @@
-export function transpose(A: number[][]): number[][] {
-
-};
+export function transpose(A: number[][]): number[][] {}
+;

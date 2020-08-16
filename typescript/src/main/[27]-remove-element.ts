@@ -1,3 +1,2 @@
-export function removeElement(nums: number[], val: number): number {
-
-};
+export function removeElement(nums: number[], val: number): number {}
+;

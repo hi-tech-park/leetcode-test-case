@@ -1,3 +1,2 @@
-export function reformatDate(date: string): string {
-
-};
+export function reformatDate(date: string): string {}
+;

@@ -1,3 +1,2 @@
-export function palindromePairs(words: string[]): number[][] {
-
-};
+export function palindromePairs(words: string[]): number[][] {}
+;

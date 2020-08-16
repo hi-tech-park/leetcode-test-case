@@ -1,3 +1,2 @@
-export function numSubseq(nums: number[], target: number): number {
-
-};
+export function numSubseq(nums: number[], target: number): number {}
+;

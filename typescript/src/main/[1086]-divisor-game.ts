@@ -1,3 +1,2 @@
-export function divisorGame(N: number): boolean {
-
-};
+export function divisorGame(N: number): boolean {}
+;

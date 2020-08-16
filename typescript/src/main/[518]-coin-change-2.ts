@@ -1,3 +1,2 @@
-export function change(amount: number, coins: number[]): number {
-
-};
+export function change(amount: number, coins: number[]): number {}
+;

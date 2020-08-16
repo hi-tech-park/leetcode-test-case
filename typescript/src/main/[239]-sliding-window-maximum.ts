@@ -1,3 +1,2 @@
-export function maxSlidingWindow(nums: number[], k: number): number[] {
-
-};
+export function maxSlidingWindow(nums: number[], k: number): number[] {}
+;

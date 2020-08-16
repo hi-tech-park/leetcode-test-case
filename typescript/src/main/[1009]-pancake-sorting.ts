@@ -1,3 +1,2 @@
-export function pancakeSort(A: number[]): number[] {
-
-};
+export function pancakeSort(A: number[]): number[] {}
+;

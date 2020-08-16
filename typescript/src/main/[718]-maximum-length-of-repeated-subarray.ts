@@ -1,3 +1,2 @@
-export function findLength(A: number[], B: number[]): number {
-
-};
+export function findLength(A: number[], B: number[]): number {}
+;

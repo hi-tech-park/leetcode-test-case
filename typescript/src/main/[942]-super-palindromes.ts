@@ -1,3 +1,2 @@
-export function superpalindromesInRange(L: string, R: string): number {
-
-};
+export function superpalindromesInRange(L: string, R: string): number {}
+;

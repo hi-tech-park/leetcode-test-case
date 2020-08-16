@@ -1,3 +1,2 @@
-export function stoneGameIII(stoneValue: number[]): string {
-
-};
+export function stoneGameIII(stoneValue: number[]): string {}
+;

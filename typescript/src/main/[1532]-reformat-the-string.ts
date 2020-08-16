@@ -1,3 +1,2 @@
-export function reformat(s: string): string {
-
-};
+export function reformat(s: string): string {}
+;

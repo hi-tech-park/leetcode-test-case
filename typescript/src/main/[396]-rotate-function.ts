@@ -1,3 +1,2 @@
-export function maxRotateFunction(A: number[]): number {
-
-};
+export function maxRotateFunction(A: number[]): number {}
+;

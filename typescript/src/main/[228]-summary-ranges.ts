@@ -1,3 +1,2 @@
-export function summaryRanges(nums: number[]): string[] {
-
-};
+export function summaryRanges(nums: number[]): string[] {}
+;

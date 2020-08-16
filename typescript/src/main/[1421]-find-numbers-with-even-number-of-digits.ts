@@ -1,3 +1,2 @@
-export function findNumbers(nums: number[]): number {
-
-};
+export function findNumbers(nums: number[]): number {}
+;

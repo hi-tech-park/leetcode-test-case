@@ -1,3 +1,2 @@
-export function longestIncreasingPath(matrix: number[][]): number {
-
-};
+export function longestIncreasingPath(matrix: number[][]): number {}
+;

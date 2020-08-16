@@ -1,6 +1,7 @@
 
-import {class ExamRoom {
-    constructor } from '../main/[885]-exam-room'
+import { ExamRoom } from '../main/[885]-exam-room'
 describe('Exam Room', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

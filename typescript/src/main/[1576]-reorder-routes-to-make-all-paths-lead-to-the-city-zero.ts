@@ -1,3 +1,2 @@
-export function minReorder(n: number, connections: number[][]): number {
-
-};
+export function minReorder(n: number, connections: number[][]): number {}
+;

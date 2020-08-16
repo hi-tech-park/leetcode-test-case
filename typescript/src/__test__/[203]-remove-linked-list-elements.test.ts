@@ -1,10 +1,7 @@
 
-import {/**
- * Definition for singly-linked list.
- * class ListNode {
- *     val: number
- *     next: ListNode | null
- *     constructor } from '../main/[203]-remove-linked-list-elements'
+import { removeElements } from '../main/[203]-remove-linked-list-elements'
 describe('Remove Linked List Elements', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

@@ -1,3 +1,2 @@
-export function findLongestChain(pairs: number[][]): number {
-
-};
+export function findLongestChain(pairs: number[][]): number {}
+;

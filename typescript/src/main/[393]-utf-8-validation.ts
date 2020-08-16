@@ -1,3 +1,2 @@
-export function validUtf8(data: number[]): boolean {
-
-};
+export function validUtf8(data: number[]): boolean {}
+;

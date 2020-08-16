@@ -1,3 +1,2 @@
-export function numSplits(s: string): number {
-
-};
+export function numSplits(s: string): number {}
+;

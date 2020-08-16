@@ -1,3 +1,2 @@
-export function minSetSize(arr: number[]): number {
-
-};
+export function minSetSize(arr: number[]): number {}
+;

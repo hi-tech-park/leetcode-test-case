@@ -1,3 +1,2 @@
-export function hitBricks(grid: number[][], hits: number[][]): number[] {
-
-};
+export function hitBricks(grid: number[][], hits: number[][]): number[] {}
+;

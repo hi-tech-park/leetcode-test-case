@@ -1,3 +1,2 @@
-export function numMagicSquaresInside(grid: number[][]): number {
-
-};
+export function numMagicSquaresInside(grid: number[][]): number {}
+;

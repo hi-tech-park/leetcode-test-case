@@ -1,3 +1,2 @@
-export function validIPAddress(IP: string): string {
-
-};
+export function validIPAddress(IP: string): string {}
+;

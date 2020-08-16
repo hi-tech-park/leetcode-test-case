@@ -1,3 +1,2 @@
-export function fallingSquares(positions: number[][]): number[] {
-
-};
+export function fallingSquares(positions: number[][]): number[] {}
+;

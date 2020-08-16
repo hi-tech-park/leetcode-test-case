@@ -1,3 +1,2 @@
-export function removeStones(stones: number[][]): number {
-
-};
+export function removeStones(stones: number[][]): number {}
+;

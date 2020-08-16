@@ -1,3 +1,2 @@
-export function countBits(num: number): number[] {
-
-};
+export function countBits(num: number): number[] {}
+;

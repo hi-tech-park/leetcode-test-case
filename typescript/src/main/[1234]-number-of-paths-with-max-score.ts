@@ -1,3 +1,2 @@
-export function pathsWithMaxScore(board: string[]): number[] {
-
-};
+export function pathsWithMaxScore(board: string[]): number[] {}
+;

@@ -1,3 +1,2 @@
-export function longestDupSubstring(S: string): string {
-
-};
+export function longestDupSubstring(S: string): string {}
+;

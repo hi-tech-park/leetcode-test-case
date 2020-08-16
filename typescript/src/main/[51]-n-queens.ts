@@ -1,3 +1,2 @@
-export function solveNQueens(n: number): string[][] {
-
-};
+export function solveNQueens(n: number): string[][] {}
+;

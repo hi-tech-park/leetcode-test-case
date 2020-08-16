@@ -1,3 +1,2 @@
-export function numTeams(rating: number[]): number {
-
-};
+export function numTeams(rating: number[]): number {}
+;

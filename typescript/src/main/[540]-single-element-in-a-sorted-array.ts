@@ -1,3 +1,2 @@
-export function singleNonDuplicate(nums: number[]): number {
-
-};
+export function singleNonDuplicate(nums: number[]): number {}
+;

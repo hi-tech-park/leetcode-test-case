@@ -1,3 +1,2 @@
-export function getProbability(balls: number[]): number {
-
-};
+export function getProbability(balls: number[]): number {}
+;

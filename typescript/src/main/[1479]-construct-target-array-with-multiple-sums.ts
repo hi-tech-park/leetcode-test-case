@@ -1,3 +1,2 @@
-export function isPossible(target: number[]): boolean {
-
-};
+export function isPossible(target: number[]): boolean {}
+;

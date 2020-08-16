@@ -1,3 +1,2 @@
-export function mergeStones(stones: number[], K: number): number {
-
-};
+export function mergeStones(stones: number[], K: number): number {}
+;

@@ -1,3 +1,2 @@
-export function hammingDistance(x: number, y: number): number {
-
-};
+export function hammingDistance(x: number, y: number): number {}
+;

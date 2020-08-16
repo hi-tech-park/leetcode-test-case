@@ -1,3 +1,2 @@
-export function numIslands(grid: string[][]): number {
-
-};
+export function numIslands(grid: string[][]): number {}
+;

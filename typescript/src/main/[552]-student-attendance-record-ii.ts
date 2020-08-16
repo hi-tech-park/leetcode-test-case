@@ -1,3 +1,2 @@
-export function checkRecord(n: number): number {
-
-};
+export function checkRecord(n: number): number {}
+;

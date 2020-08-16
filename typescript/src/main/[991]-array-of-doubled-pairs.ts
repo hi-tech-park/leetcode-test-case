@@ -1,3 +1,2 @@
-export function canReorderDoubled(A: number[]): boolean {
-
-};
+export function canReorderDoubled(A: number[]): boolean {}
+;

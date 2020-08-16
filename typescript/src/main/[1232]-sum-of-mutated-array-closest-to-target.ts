@@ -1,3 +1,2 @@
-export function findBestValue(arr: number[], target: number): number {
-
-};
+export function findBestValue(arr: number[], target: number): number {}
+;

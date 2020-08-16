@@ -1,3 +1,2 @@
-export function canPartition(nums: number[]): boolean {
-
-};
+export function canPartition(nums: number[]): boolean {}
+;

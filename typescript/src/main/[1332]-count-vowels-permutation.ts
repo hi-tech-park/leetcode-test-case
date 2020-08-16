@@ -1,3 +1,2 @@
-export function countVowelPermutation(n: number): number {
-
-};
+export function countVowelPermutation(n: number): number {}
+;

@@ -1,3 +1,2 @@
-export function intersectionSizeTwo(intervals: number[][]): number {
-
-};
+export function intersectionSizeTwo(intervals: number[][]): number {}
+;

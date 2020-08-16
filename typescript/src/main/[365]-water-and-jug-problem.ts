@@ -1,3 +1,2 @@
-export function canMeasureWater(x: number, y: number, z: number): boolean {
-
-};
+export function canMeasureWater(x: number, y: number, z: number): boolean {}
+;

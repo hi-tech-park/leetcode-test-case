@@ -1,3 +1,2 @@
-export function maxEnvelopes(envelopes: number[][]): number {
-
-};
+export function maxEnvelopes(envelopes: number[][]): number {}
+;

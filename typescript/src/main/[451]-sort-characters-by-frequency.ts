@@ -1,3 +1,2 @@
-export function frequencySort(s: string): string {
-
-};
+export function frequencySort(s: string): string {}
+;

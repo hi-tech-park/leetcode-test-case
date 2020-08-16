@@ -1,3 +1,2 @@
-export function shipWithinDays(weights: number[], D: number): number {
-
-};
+export function shipWithinDays(weights: number[], D: number): number {}
+;

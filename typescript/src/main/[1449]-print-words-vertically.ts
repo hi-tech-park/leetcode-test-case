@@ -1,3 +1,2 @@
-export function printVertically(s: string): string[] {
-
-};
+export function printVertically(s: string): string[] {}
+;

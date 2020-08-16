@@ -1,3 +1,2 @@
-export function orderlyQueue(S: string, K: number): string {
-
-};
+export function orderlyQueue(S: string, K: number): string {}
+;

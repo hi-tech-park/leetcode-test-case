@@ -1,3 +1,2 @@
-export function largestTriangleArea(points: number[][]): number {
-
-};
+export function largestTriangleArea(points: number[][]): number {}
+;

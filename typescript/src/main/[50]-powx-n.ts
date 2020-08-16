@@ -1,3 +1,2 @@
-export function myPow(x: number, n: number): number {
-
-};
+export function myPow(x: number, n: number): number {}
+;

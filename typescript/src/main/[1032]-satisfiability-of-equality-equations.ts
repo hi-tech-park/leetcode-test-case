@@ -1,3 +1,2 @@
-export function equationsPossible(equations: string[]): boolean {
-
-};
+export function equationsPossible(equations: string[]): boolean {}
+;

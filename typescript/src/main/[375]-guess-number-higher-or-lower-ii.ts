@@ -1,3 +1,2 @@
-export function getMoneyAmount(n: number): number {
-
-};
+export function getMoneyAmount(n: number): number {}
+;

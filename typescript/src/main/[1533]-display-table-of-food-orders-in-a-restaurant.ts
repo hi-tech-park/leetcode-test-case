@@ -1,3 +1,2 @@
-export function displayTable(orders: string[][]): string[][] {
-
-};
+export function displayTable(orders: string[][]): string[][] {}
+;

@@ -1,3 +1,2 @@
-export function myAtoi(str: string): number {
-
-};
+export function myAtoi(str: string): number {}
+;

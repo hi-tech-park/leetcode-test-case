@@ -1,3 +1,2 @@
-export function mySqrt(x: number): number {
-
-};
+export function mySqrt(x: number): number {}
+;

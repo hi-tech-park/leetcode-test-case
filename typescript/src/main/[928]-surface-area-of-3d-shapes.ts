@@ -1,3 +1,2 @@
-export function surfaceArea(grid: number[][]): number {
-
-};
+export function surfaceArea(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function kthGrammar(N: number, K: number): number {
-
-};
+export function kthGrammar(N: number, K: number): number {}
+;

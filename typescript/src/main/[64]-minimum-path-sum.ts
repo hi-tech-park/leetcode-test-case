@@ -1,3 +1,2 @@
-export function minPathSum(grid: number[][]): number {
-
-};
+export function minPathSum(grid: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function bestRotation(A: number[]): number {
-
-};
+export function bestRotation(A: number[]): number {}
+;

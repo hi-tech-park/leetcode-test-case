@@ -1,3 +1,2 @@
-export function judgeSquareSum(c: number): boolean {
-
-};
+export function judgeSquareSum(c: number): boolean {}
+;

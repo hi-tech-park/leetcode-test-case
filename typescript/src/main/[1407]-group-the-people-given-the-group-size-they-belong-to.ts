@@ -1,3 +1,2 @@
-export function groupThePeople(groupSizes: number[]): number[][] {
-
-};
+export function groupThePeople(groupSizes: number[]): number[][] {}
+;

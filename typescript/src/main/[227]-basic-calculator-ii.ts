@@ -1,3 +1,2 @@
-export function calculate(s: string): number {
-
-};
+export function calculate(s: string): number {}
+;

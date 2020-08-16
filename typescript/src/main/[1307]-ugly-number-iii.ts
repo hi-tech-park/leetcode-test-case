@@ -1,3 +1,2 @@
-export function nthUglyNumber(n: number, a: number, b: number, c: number): number {
-
-};
+export function nthUglyNumber(n: number, a: number, b: number, c: number): number {}
+;

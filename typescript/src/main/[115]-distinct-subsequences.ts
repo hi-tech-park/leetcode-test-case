@@ -1,3 +1,2 @@
-export function numDistinct(s: string, t: string): number {
-
-};
+export function numDistinct(s: string, t: string): number {}
+;

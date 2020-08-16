@@ -1,3 +1,2 @@
-export function shortestPathAllKeys(grid: string[]): number {
-
-};
+export function shortestPathAllKeys(grid: string[]): number {}
+;

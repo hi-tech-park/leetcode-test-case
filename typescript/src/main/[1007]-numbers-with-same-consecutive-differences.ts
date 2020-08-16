@@ -1,3 +1,2 @@
-export function numsSameConsecDiff(N: number, K: number): number[] {
-
-};
+export function numsSameConsecDiff(N: number, K: number): number[] {}
+;

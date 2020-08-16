@@ -1,3 +1,2 @@
-export function findMaxLength(nums: number[]): number {
-
-};
+export function findMaxLength(nums: number[]): number {}
+;

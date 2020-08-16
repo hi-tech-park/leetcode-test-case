@@ -1,3 +1,2 @@
-export function splitIntoFibonacci(S: string): number[] {
-
-};
+export function splitIntoFibonacci(S: string): number[] {}
+;

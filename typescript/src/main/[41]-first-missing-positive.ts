@@ -1,3 +1,2 @@
-export function firstMissingPositive(nums: number[]): number {
-
-};
+export function firstMissingPositive(nums: number[]): number {}
+;

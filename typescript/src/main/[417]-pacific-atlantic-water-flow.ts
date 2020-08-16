@@ -1,3 +1,2 @@
-export function pacificAtlantic(matrix: number[][]): number[][] {
-
-};
+export function pacificAtlantic(matrix: number[][]): number[][] {}
+;

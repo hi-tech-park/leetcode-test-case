@@ -1,3 +1,2 @@
-export function sortByBits(arr: number[]): number[] {
-
-};
+export function sortByBits(arr: number[]): number[] {}
+;

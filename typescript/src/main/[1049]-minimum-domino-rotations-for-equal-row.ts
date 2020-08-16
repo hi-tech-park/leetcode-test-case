@@ -1,3 +1,2 @@
-export function minDominoRotations(A: number[], B: number[]): number {
-
-};
+export function minDominoRotations(A: number[], B: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function corpFlightBookings(bookings: number[][], n: number): number[] {
-
-};
+export function corpFlightBookings(bookings: number[][], n: number): number[] {}
+;

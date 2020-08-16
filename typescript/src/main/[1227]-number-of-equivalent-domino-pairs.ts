@@ -1,3 +1,2 @@
-export function numEquivDominoPairs(dominoes: number[][]): number {
-
-};
+export function numEquivDominoPairs(dominoes: number[][]): number {}
+;

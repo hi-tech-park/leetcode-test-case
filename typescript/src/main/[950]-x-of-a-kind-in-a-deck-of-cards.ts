@@ -1,3 +1,2 @@
-export function hasGroupsSizeX(deck: number[]): boolean {
-
-};
+export function hasGroupsSizeX(deck: number[]): boolean {}
+;

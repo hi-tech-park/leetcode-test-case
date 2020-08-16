@@ -1,3 +1,2 @@
-export function numberOfArrays(s: string, k: number): number {
-
-};
+export function numberOfArrays(s: string, k: number): number {}
+;

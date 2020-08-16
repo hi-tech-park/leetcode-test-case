@@ -1,3 +1,2 @@
-export function candy(ratings: number[]): number {
-
-};
+export function candy(ratings: number[]): number {}
+;

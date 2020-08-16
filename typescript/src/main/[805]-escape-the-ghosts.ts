@@ -1,3 +1,2 @@
-export function escapeGhosts(ghosts: number[][], target: number[]): boolean {
-
-};
+export function escapeGhosts(ghosts: number[][], target: number[]): boolean {}
+;

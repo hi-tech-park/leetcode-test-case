@@ -1,3 +1,2 @@
-export function readBinaryWatch(num: number): string[] {
-
-};
+export function readBinaryWatch(num: number): string[] {}
+;

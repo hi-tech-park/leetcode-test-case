@@ -1,3 +1,2 @@
-export function largestNumber(nums: number[]): string {
-
-};
+export function largestNumber(nums: number[]): string {}
+;

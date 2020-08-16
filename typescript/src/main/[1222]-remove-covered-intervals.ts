@@ -1,3 +1,2 @@
-export function removeCoveredIntervals(intervals: number[][]): number {
-
-};
+export function removeCoveredIntervals(intervals: number[][]): number {}
+;

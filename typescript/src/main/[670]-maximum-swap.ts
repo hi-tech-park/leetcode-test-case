@@ -1,3 +1,2 @@
-export function maximumSwap(num: number): number {
-
-};
+export function maximumSwap(num: number): number {}
+;

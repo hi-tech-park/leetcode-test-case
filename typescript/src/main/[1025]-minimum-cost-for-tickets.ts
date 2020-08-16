@@ -1,3 +1,2 @@
-export function mincostTickets(days: number[], costs: number[]): number {
-
-};
+export function mincostTickets(days: number[], costs: number[]): number {}
+;

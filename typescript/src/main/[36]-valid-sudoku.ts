@@ -1,3 +1,2 @@
-export function isValidSudoku(board: string[][]): boolean {
-
-};
+export function isValidSudoku(board: string[][]): boolean {}
+;

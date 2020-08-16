@@ -1,3 +1,2 @@
-export function numberOfSubstrings(s: string): number {
-
-};
+export function numberOfSubstrings(s: string): number {}
+;

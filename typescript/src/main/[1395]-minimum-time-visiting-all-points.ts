@@ -1,3 +1,2 @@
-export function minTimeToVisitAllPoints(points: number[][]): number {
-
-};
+export function minTimeToVisitAllPoints(points: number[][]): number {}
+;

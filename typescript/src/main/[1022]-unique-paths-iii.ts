@@ -1,3 +1,2 @@
-export function uniquePathsIII(grid: number[][]): number {
-
-};
+export function uniquePathsIII(grid: number[][]): number {}
+;

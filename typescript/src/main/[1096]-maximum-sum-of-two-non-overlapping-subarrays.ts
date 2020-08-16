@@ -1,3 +1,2 @@
-export function maxSumTwoNoOverlap(A: number[], L: number, M: number): number {
-
-};
+export function maxSumTwoNoOverlap(A: number[], L: number, M: number): number {}
+;

@@ -1,3 +1,2 @@
-export function countCharacters(words: string[], chars: string): number {
-
-};
+export function countCharacters(words: string[], chars: string): number {}
+;

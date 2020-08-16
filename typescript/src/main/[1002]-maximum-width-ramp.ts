@@ -1,3 +1,2 @@
-export function maxWidthRamp(A: number[]): number {
-
-};
+export function maxWidthRamp(A: number[]): number {}
+;

@@ -1,3 +1,2 @@
-export function numberWays(hats: number[][]): number {
-
-};
+export function numberWays(hats: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function countGoodTriplets(arr: number[], a: number, b: number, c: number): number {
-
-};
+export function countGoodTriplets(arr: number[], a: number, b: number, c: number): number {}
+;

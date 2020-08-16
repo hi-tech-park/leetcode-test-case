@@ -1,3 +1,2 @@
-export function catMouseGame(graph: number[][]): number {
-
-};
+export function catMouseGame(graph: number[][]): number {}
+;

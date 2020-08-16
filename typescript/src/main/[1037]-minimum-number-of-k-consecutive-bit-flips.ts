@@ -1,3 +1,2 @@
-export function minKBitFlips(A: number[], K: number): number {
-
-};
+export function minKBitFlips(A: number[], K: number): number {}
+;

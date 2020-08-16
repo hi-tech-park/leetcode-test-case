@@ -1,3 +1,2 @@
-export function maxDistToClosest(seats: number[]): number {
-
-};
+export function maxDistToClosest(seats: number[]): number {}
+;

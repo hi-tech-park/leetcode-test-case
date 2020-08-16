@@ -1,3 +1,2 @@
-export function numSub(s: string): number {
-
-};
+export function numSub(s: string): number {}
+;

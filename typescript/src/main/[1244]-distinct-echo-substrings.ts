@@ -1,3 +1,2 @@
-export function distinctEchoSubstrings(text: string): number {
-
-};
+export function distinctEchoSubstrings(text: string): number {}
+;

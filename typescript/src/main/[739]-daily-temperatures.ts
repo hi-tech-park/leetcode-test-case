@@ -1,3 +1,2 @@
-export function dailyTemperatures(T: number[]): number[] {
-
-};
+export function dailyTemperatures(T: number[]): number[] {}
+;

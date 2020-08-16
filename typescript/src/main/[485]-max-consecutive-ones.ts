@@ -1,3 +1,2 @@
-export function findMaxConsecutiveOnes(nums: number[]): number {
-
-};
+export function findMaxConsecutiveOnes(nums: number[]): number {}
+;

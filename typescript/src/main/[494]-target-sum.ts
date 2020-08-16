@@ -1,3 +1,2 @@
-export function findTargetSumWays(nums: number[], S: number): number {
-
-};
+export function findTargetSumWays(nums: number[], S: number): number {}
+;

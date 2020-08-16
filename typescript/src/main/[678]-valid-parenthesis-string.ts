@@ -1,3 +1,2 @@
-export function checkValidString(s: string): boolean {
-
-};
+export function checkValidString(s: string): boolean {}
+;

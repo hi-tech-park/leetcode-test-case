@@ -1,3 +1,2 @@
-export function maxArea(height: number[]): number {
-
-};
+export function maxArea(height: number[]): number {}
+;

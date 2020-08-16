@@ -1,3 +1,2 @@
-export function hasAlternatingBits(n: number): boolean {
-
-};
+export function hasAlternatingBits(n: number): boolean {}
+;

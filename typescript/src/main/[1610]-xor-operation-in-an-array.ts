@@ -1,3 +1,2 @@
-export function xorOperation(n: number, start: number): number {
-
-};
+export function xorOperation(n: number, start: number): number {}
+;

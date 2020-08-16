@@ -1,3 +1,2 @@
-export function maxProduct(words: string[]): number {
-
-};
+export function maxProduct(words: string[]): number {}
+;

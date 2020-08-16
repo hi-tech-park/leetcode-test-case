@@ -1,3 +1,2 @@
-export function convert(s: string, numRows: number): string {
-
-};
+export function convert(s: string, numRows: number): string {}
+;

@@ -1,3 +1,2 @@
-export function toLowerCase(str: string): string {
-
-};
+export function toLowerCase(str: string): string {}
+;

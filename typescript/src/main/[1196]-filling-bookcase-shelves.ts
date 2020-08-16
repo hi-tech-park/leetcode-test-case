@@ -1,3 +1,2 @@
-export function minHeightShelves(books: number[][], shelf_width: number): number {
-
-};
+export function minHeightShelves(books: number[][], shelf_width: number): number {}
+;

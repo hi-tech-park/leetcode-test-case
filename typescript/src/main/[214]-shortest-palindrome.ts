@@ -1,3 +1,2 @@
-export function shortestPalindrome(s: string): string {
-
-};
+export function shortestPalindrome(s: string): string {}
+;

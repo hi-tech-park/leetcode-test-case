@@ -1,3 +1,2 @@
-export function movesToStamp(stamp: string, target: string): number[] {
-
-};
+export function movesToStamp(stamp: string, target: string): number[] {}
+;

@@ -1,3 +1,2 @@
-export function isValidSerialization(preorder: string): boolean {
-
-};
+export function isValidSerialization(preorder: string): boolean {}
+;

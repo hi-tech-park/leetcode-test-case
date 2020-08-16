@@ -1,3 +1,2 @@
-export function countSmaller(nums: number[]): number[] {
-
-};
+export function countSmaller(nums: number[]): number[] {}
+;

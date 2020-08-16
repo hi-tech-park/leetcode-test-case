@@ -1,3 +1,2 @@
-export function maxStudents(seats: string[][]): number {
-
-};
+export function maxStudents(seats: string[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function isGoodArray(nums: number[]): boolean {
-
-};
+export function isGoodArray(nums: number[]): boolean {}
+;

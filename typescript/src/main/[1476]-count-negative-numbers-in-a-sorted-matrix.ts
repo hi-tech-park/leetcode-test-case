@@ -1,3 +1,2 @@
-export function countNegatives(grid: number[][]): number {
-
-};
+export function countNegatives(grid: number[][]): number {}
+;

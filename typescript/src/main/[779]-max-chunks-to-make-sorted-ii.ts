@@ -1,3 +1,2 @@
-export function maxChunksToSorted(arr: number[]): number {
-
-};
+export function maxChunksToSorted(arr: number[]): number {}
+;

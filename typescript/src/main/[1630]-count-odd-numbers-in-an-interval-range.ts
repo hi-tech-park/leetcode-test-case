@@ -1,3 +1,2 @@
-export function countOdds(low: number, high: number): number {
-
-};
+export function countOdds(low: number, high: number): number {}
+;

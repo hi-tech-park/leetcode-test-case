@@ -1,3 +1,2 @@
-export function maxNumberOfFamilies(n: number, reservedSeats: number[][]): number {
-
-};
+export function maxNumberOfFamilies(n: number, reservedSeats: number[][]): number {}
+;

@@ -1,3 +1,2 @@
-export function integerReplacement(n: number): number {
-
-};
+export function integerReplacement(n: number): number {}
+;

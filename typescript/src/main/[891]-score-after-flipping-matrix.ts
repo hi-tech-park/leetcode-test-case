@@ -1,3 +1,2 @@
-export function matrixScore(A: number[][]): number {
-
-};
+export function matrixScore(A: number[][]): number {}
+;

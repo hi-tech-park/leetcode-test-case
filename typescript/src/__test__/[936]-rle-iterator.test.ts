@@ -1,6 +1,7 @@
 
-import {class RLEIterator {
-    constructor } from '../main/[936]-rle-iterator'
+import { RLEIterator } from '../main/[936]-rle-iterator'
 describe('RLE Iterator', () => {
-
+  it('placeholder', () => {
+    expect(true).toBe(true);
+  });
 });

@@ -1,3 +1,2 @@
-export function dayOfYear(date: string): number {
-
-};
+export function dayOfYear(date: string): number {}
+;

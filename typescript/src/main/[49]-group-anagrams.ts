@@ -1,3 +1,2 @@
-export function groupAnagrams(strs: string[]): string[][] {
-
-};
+export function groupAnagrams(strs: string[]): string[][] {}
+;

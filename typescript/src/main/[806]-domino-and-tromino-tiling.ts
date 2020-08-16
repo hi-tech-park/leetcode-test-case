@@ -1,3 +1,2 @@
-export function numTilings(N: number): number {
-
-};
+export function numTilings(N: number): number {}
+;

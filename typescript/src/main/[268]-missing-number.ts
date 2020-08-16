@@ -1,3 +1,2 @@
-export function missingNumber(nums: number[]): number {
-
-};
+export function missingNumber(nums: number[]): number {}
+;

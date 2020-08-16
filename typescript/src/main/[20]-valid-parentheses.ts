@@ -1,3 +1,2 @@
-export function isValid(s: string): boolean {
-
-};
+export function isValid(s: string): boolean {}
+;

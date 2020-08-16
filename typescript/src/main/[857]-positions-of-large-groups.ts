@@ -1,3 +1,2 @@
-export function largeGroupPositions(S: string): number[][] {
-
-};
+export function largeGroupPositions(S: string): number[][] {}
+;
