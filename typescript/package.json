@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "test": "jest",
+    "test:single": "jest  -c jest.config.js --testMatch **/\\[$npm_config_id\\]**.test.ts",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {},
